@@ -8,61 +8,34 @@ import os
 from datetime import datetime, timedelta
 from threading import Lock
 
-# --- CONFIG ---
-RESULTS_FILE = "evelta_prices.csv"
-PROGRESS_FILE = "evelta_progress.csv"
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+RESULTS_FILE = os.path.join(BASE_DIR, "evelta_normalized.csv")
+PROGRESS_FILE = os.path.join(BASE_DIR, "evelta_progress.csv")
+
+CANONICAL_FIELDS = ["url", "vendor", "title", "sku", "price", "in_stock", "stock_qty", "scraped_at"]
+GST_RATE = 1.18
 
 data_lock = Lock()
 progress_lock = Lock()
 
 CATEGORY_URLS = [
-    # Integrated Circuits
-    "https://evelta.com/integrated-circuits-ics/microcontrollers/",
-    "https://evelta.com/integrated-circuits-ics/power-management-ics/battery-management/",
-    "https://evelta.com/supervisory-circuits",
-    "https://evelta.com/integrated-circuits-ics/power-management-ics/voltage-references/",
-    "https://evelta.com/integrated-circuits-ics/power-management-ics/voltage-regulators---linear/",
-    "https://evelta.com/integrated-circuits-ics/power-management-ics/voltage-regulators-switching/",
-    "https://evelta.com/integrated-circuits-ics/power-management-ics/motor-drivers/",
-    "https://evelta.com/integrated-circuits-ics/data-converter-ics/",
-    "https://evelta.com/integrated-circuits-ics/clock-and-timing/",
-    "https://evelta.com/integrated-circuits-ics/interface-ics/",
-    "https://evelta.com/integrated-circuits-ics/linear-amplifier/",
-    "https://evelta.com/categories/integrated-circuits-ics/logic-ics/",
-    "https://evelta.com/categories/integrated-circuits-ics/memory/",
-    "https://evelta.com/categories/integrated-circuits-ics/rf-integrated-circuits/",
-    "https://evelta.com/integrated-circuits-ics/fpga-field-programmable-gate-array/",
-    "https://evelta.com/categories/integrated-circuits-ics/other-ics/",
-    # Development Boards
-    "https://evelta.com/development-boards-and-kits/arduino-and-compatible-boards/",
-    "https://evelta.com/development-boards-and-kits/raspberry-pi-and-accessories/",
-    "https://evelta.com/boards-kits-and-programmers/programmers-emulators-and-debuggers/",
-    "https://evelta.com/boards-kits-and-programmers/rf-evaluation-and-development-kits/",
-    "https://evelta.com/development-boards-and-kits/evaluation-boards-processors-and-microcontrollers/",
-    "https://evelta.com/categories/boards-kits-and-programmers/evaluation-boards-mcu-dsp/arm-development-boards/",
-    "https://evelta.com/categories/boards-kits-and-programmers/evaluation-boards-mcu-dsp/avr-development-boards/",
-    "https://evelta.com/categories/boards-kits-and-programmers/evaluation-boards-mcu-dsp/msp-development-boards/",
-    "https://evelta.com/development-boards-and-kits/evaluation-boards-mcu-and-dsp/pic-and-dspic-development-boards/",
-    "https://evelta.com/categories/boards-kits-and-programmers/evaluation-boards-mcu-dsp/pmic-development-tools/",
-    "https://evelta.com/development-boards-and-kits/evaluation-boards---mcu-and-dsp/risc-v-development-boards/",
-    "https://evelta.com/categories/boards-kits-and-programmers/evaluation-boards-mcu-dsp/x86-development-boards/",
-    "https://evelta.com/categories/boards-kits-and-programmers/evaluation-boards-sensors/",
-    "https://evelta.com/categories/boards-kits-and-programmers/evaluation-and-demonstration-boards/",
-    "https://evelta.com/categories/boards-kits-and-programmers/evaluation-boards-dc-dc-and-ac-dc/",
-    "https://evelta.com/categories/boards-kits-and-programmers/evaluation-boards-expansion-boards/",
-    "https://evelta.com/categories/boards-kits-and-programmers/single-board-computers/",
-    "https://evelta.com/categories/boards-kits-and-programmers/starter-kits/",
-    "https://evelta.com/categories/boards-kits-and-programmers/accessories/",
-    # Drone Parts
-    "https://evelta.com/drone-components/drone-accessories/",
-    "https://evelta.com/drone-components/drone-frame/",
-    "https://evelta.com/drone-parts/drone-gimbals/",
-    "https://evelta.com/drone-parts/drone-gps-modules/",
-    "https://evelta.com/drone-components/drone-kit/",
-    "https://evelta.com/drone-components/drone-motor/",
-    "https://evelta.com/drone-components/drone-propeller/",
-    "https://evelta.com/drone-components/drone-remote/",
-    "https://evelta.com/drone-components/esc-electronic-speed-controller/",
+    "https://evelta.com/integrated-circuits-ics/",
+    "https://evelta.com/boards-kits-and-programmers/",
+    "https://evelta.com/drone-parts/",
+    "https://evelta.com/breakout-boards/",
+    "https://evelta.com/categories/communication/",
+    "https://evelta.com/categories/passive-components/",
+    "https://evelta.com/categories/sensors/",
+    "https://evelta.com/categories/connectors/",
+    "https://evelta.com/categories/optoelectronics/",
+    "https://evelta.com/categories/electromechanical/",
+    "https://evelta.com/categories/discrete-semiconductors/",
+    "https://evelta.com/3d-printers-and-filaments/",
+    "https://evelta.com/wire-and-cable-management/",
+    "https://evelta.com/categories/other-components/circuit-protection/",
+    "https://evelta.com/power-supplies/",
+    "https://evelta.com/test-and-measurement/",
+    "https://evelta.com/tools-and-supplies/",
 ]
 
 
@@ -73,53 +46,50 @@ def parse_cards(html, seen_urls):
 
     for card in cards:
         try:
-            # URL + duplicate guard (handles BC infinite page redirect quirk)
             link = card.select_one("a.card-figure-link")
             url = link["href"] if link else None
             if not url or url in seen_urls:
                 continue
             seen_urls.add(url)
 
-            # product_id from the Add to Cart hidden input
-            pid_input = card.select_one("input[name='product_id']")
-            product_id = pid_input["value"] if pid_input else "N/A"
-
-            # title
             title_a = card.select_one("h4.card-title a")
-            title = title_a.text.strip() if title_a else "N/A"
+            title = title_a.text.strip() if title_a else None
 
-            # sku
             sku_elem = card.select_one("p.card-text--sku")
-            sku = sku_elem.text.strip().replace("SKU:", "").strip() if sku_elem else "N/A"
+            sku = sku_elem.text.strip().replace("SKU:", "").strip() if sku_elem else None
 
-            # price excl. GST
             price_elem = card.select_one("span[data-product-price-without-tax]")
-            price = re.sub(r"[₹,\s]", "", price_elem.text.strip()) if price_elem else "N/A"
+            if price_elem:
+                raw = re.sub(r"[₹,\s]", "", price_elem.text.strip())
+                try:
+                    price = round(float(raw) * GST_RATE, 2)
+                except ValueError:
+                    price = None
+            else:
+                price = None
 
-            # stock
             stock_elem = card.select_one("div.card-stock")
             if stock_elem:
-                stock_text = stock_elem.text.strip()
+                stock_text = stock_elem.text.strip().lower()
                 qty_match = re.search(r"(\d+)", stock_text)
                 if qty_match:
                     stock_qty = int(qty_match.group(1))
                     in_stock = True
-                elif "out of stock" in stock_text.lower():
+                elif "out of stock" in stock_text:
                     stock_qty = 0
                     in_stock = False
                 else:
-                    stock_qty = ""
+                    stock_qty = None
                     in_stock = True
             else:
-                stock_qty = ""
-                in_stock = ""
+                stock_qty = None
+                in_stock = None
 
             results.append({
-                "product_id": product_id,
-                "title": title,
                 "url": url,
+                "vendor": "evelta",
+                "title": title,
                 "sku": sku,
-                "variant_title": "",   # not exposed on listing cards
                 "price": price,
                 "in_stock": in_stock,
                 "stock_qty": stock_qty,
@@ -133,10 +103,10 @@ def parse_cards(html, seen_urls):
     return results
 
 
-def scrape_category(category_url):
-    scraper = cloudscraper.create_scraper()
+def scrape_category(category_url, scraper):
     all_results = []
-    seen_urls = set()  # duplicate guard per category
+    # seen_urls is global across pages for this category to catch BC redirect quirk
+    seen_urls = set()
     page = 1
 
     while True:
@@ -144,16 +114,17 @@ def scrape_category(category_url):
         try:
             r = scraper.get(url, timeout=15)
             if r.status_code != 200:
-                print(f"[!] HTTP {r.status_code} -> {url}")
+                print(f"[!] HTTP {r.status_code} → {url}")
                 break
 
             products = parse_cards(r.text, seen_urls)
 
             if not products:
+                # Empty page = end of pagination
                 break
 
             slug = category_url.split("evelta.com/")[-1].strip("/")
-            print(f"[page] {slug} | p{page} -> {len(products)} products")
+            print(f"  [page {page}] {slug} → {len(products)} products")
             all_results.extend(products)
             page += 1
             time.sleep(random.uniform(1.0, 2.0))
@@ -182,10 +153,7 @@ def save_results_batch(results):
     with data_lock:
         file_exists = os.path.exists(RESULTS_FILE)
         with open(RESULTS_FILE, "a", newline="", encoding="utf-8") as f:
-            writer = csv.DictWriter(f, fieldnames=[
-                "product_id", "title", "url", "sku", "variant_title",
-                "price", "in_stock", "stock_qty", "scraped_at"
-            ])
+            writer = csv.DictWriter(f, fieldnames=CANONICAL_FIELDS)
             if not file_exists:
                 writer.writeheader()
             writer.writerows(results)
@@ -202,38 +170,39 @@ def save_category_progress(category_url, status, count):
 
 
 def scrape_all():
-    completed_categories = load_completed_categories()
-    remaining = [c for c in CATEGORY_URLS if c not in completed_categories]
+    scraper = cloudscraper.create_scraper()
+    completed = load_completed_categories()
+    remaining = [c for c in CATEGORY_URLS if c not in completed]
 
-    print(f"[info] {len(CATEGORY_URLS)} categories | {len(completed_categories)} done | {len(remaining)} remaining\n")
+    print(f"[📊] {len(CATEGORY_URLS)} categories | {len(completed)} done | {len(remaining)} remaining\n")
 
     total_products = 0
     start_time = time.time()
 
     for i, cat_url in enumerate(remaining, 1):
         slug = cat_url.split("evelta.com/")[-1].strip("/")
-        print(f"\n[scan] [{i}/{len(remaining)}] {slug}")
+        print(f"\n[{i}/{len(remaining)}] {slug}")
 
-        results = scrape_category(cat_url)
+        results = scrape_category(cat_url, scraper)
 
         if results:
             save_results_batch(results)
             save_category_progress(cat_url, "SUCCESS", len(results))
             total_products += len(results)
-            print(f"[ok]   {len(results)} products saved")
+            print(f"  [✅] {len(results)} products saved")
         else:
             save_category_progress(cat_url, "EMPTY", 0)
-            print(f"[warn] No products found")
+            print(f"  [⚠️] No products found — check if URL is valid")
 
         elapsed = time.time() - start_time
         rate = i / elapsed
         eta_secs = (len(remaining) - i) / rate if rate > 0 else 0
         eta = datetime.now() + timedelta(seconds=eta_secs)
-        print(f"[eta]  {i}/{len(remaining)} | {total_products} products | ETA: {eta.strftime('%H:%M:%S')}")
+        print(f"  [eta] {total_products} total products | ETA {eta.strftime('%H:%M:%S')}")
 
-        time.sleep(random.uniform(1.0, 2.0))
+        time.sleep(random.uniform(1.5, 2.5))
 
-    print(f"\n[done] {total_products} products -> {RESULTS_FILE}")
+    print(f"\n[done] {total_products} products → {RESULTS_FILE}")
 
 
 if __name__ == "__main__":

@@ -1,0 +1,669 @@
+url,vendor,title,sku,price,in_stock,stock_qty,scraped_at
+https://www.flyrobo.in/arduino-nano-r3-compatible-board-unsoldered,flyrobo,Arduino nano R3 Compatible Board Unsoldered,,198.0,True,,2026-04-05 21:43:45
+https://www.flyrobo.in/arduino-uno-r3-compatible-board-plus-cable-for-arduino-uno,flyrobo,Arduino MEGA R3 ATmega2560-16AU Development Compatible Board,,1153.0,True,,2026-04-05 21:43:45
+https://www.flyrobo.in/arduino-nano-r3-compatible-board-with-ch340-chip-soldered,flyrobo,Arduino Nano R3 Compatible Board with CH340 chip SOLDERED,,194.0,True,,2026-04-05 21:43:45
+https://www.flyrobo.in/l293d_motor_drive_module,flyrobo,L293D Motor Drive Module,,83.0,True,,2026-04-05 21:43:45
+https://www.flyrobo.in/mini_solderless_breadboard__170_tie_points_for_arduino_diy_project,flyrobo,"Mini Solderless Breadboard -170 Tie Points for Arduino, DIY Project",,15.0,True,,2026-04-05 21:43:46
+https://www.flyrobo.in/l293d_motor_driver_shield_for_arduino,flyrobo,L293D Motor Driver Shield For Arduino,,132.0,True,,2026-04-05 21:43:46
+https://www.flyrobo.in/high_quality_solderless_breadboard_with_430_tie_point_for_arduino,flyrobo,Breadboard GL-12 840 Tie Points Solderless DIY PROJECT CIRCUIT,,56.0,True,,2026-04-05 21:43:46
+https://www.flyrobo.in/arduino-uno-r3-compatible-board-plus-cable-for-arduino-uno-1,flyrobo,Arduino Uno R3 Compatible board + Cable for Arduino Uno,,484.0,True,,2026-04-05 21:43:46
+https://www.flyrobo.in/esp8266_esp_1_wifi_transceiver_wireless_module,flyrobo,ESP8266 ESP-01 WIFI Transceiver Wireless Module,,128.0,True,,2026-04-05 21:43:52
+https://www.flyrobo.in/am2302_dht22_temperature_and_humidity_sensor_module,flyrobo,AM2302 DHT22 Temperature And Humidity Sensor Module,,124.0,True,,2026-04-05 21:43:53
+https://www.flyrobo.in/mpu_6050_6dof_3_axis_gyro_with_accelerometer_sensor_module,flyrobo,MPU-6050 6DOF 3 Axis Gyro With Accelerometer Sensor Module,,172.0,True,,2026-04-05 21:43:54
+https://www.flyrobo.in/433mhz_rf_transmitter_with_receiver_kit_for_arduino_arm_mcu,flyrobo,433Mhz RF Transmitter With Receiver Kit For Arduino ARM MCU Wireless,,84.0,True,,2026-04-05 21:43:54
+https://www.flyrobo.in/16_channel_pwm_servo_motor_driver_i2c_module,flyrobo,16 Channel PWM Servo Motor Driver I2C Module,,225.0,True,,2026-04-05 21:43:54
+https://www.flyrobo.in/smart_robot_car_tyres_wheels_for_arduino_bo_gear_motor,flyrobo,Smart Robot Car Wheels For Arduino BO Gear Motor Chassis,,28.0,True,,2026-04-05 21:43:55
+https://www.flyrobo.in/10cm_male_to_male_jumper_cable_wire_for_arduino,flyrobo,20cm Male To Male Jumper Cable Wire For Arduino - 40pcs,,53.0,True,,2026-04-05 21:43:55
+https://www.flyrobo.in/mg90s_metal_gear_micro_servo_for_rc_model,flyrobo,MG90S Metal Gear 180 degrees Micro Servo Motor For RC Model,,246.0,True,,2026-04-05 21:43:57
+https://www.flyrobo.in/apm_pixhawk_power_module_with_xt60,flyrobo,APM Pixhawk Power Module with XT60,,570.0,True,,2026-04-05 21:43:58
+https://www.flyrobo.in/12_x_18cm_pcb_prototyping_printed_circuit,flyrobo,7 x 5cm PCB Prototyping Printed Circuit Board Prototype Breadboard,,31.0,True,,2026-04-05 21:43:59
+https://www.flyrobo.in/laser_transmitter_module_for_arduino,flyrobo,Laser Transmitter Module For Arduino,,30.0,True,,2026-04-05 21:44:03
+https://www.flyrobo.in/5v_ky-040_rotary_encoder_module_for_arduino,flyrobo,5V KY-040 Rotary Encoder Module For Arduino,,49.0,True,,2026-04-05 21:44:04
+https://www.flyrobo.in/3.5-5.5v_standard_passive_buzzer_module_for_arduino,flyrobo,3.5-5.5V Standard Active Buzzer Module For Arduino,,34.0,True,,2026-04-05 21:44:04
+https://www.flyrobo.in/openpilot_cc3d_evo_flight_controller_stm32,flyrobo,OpenPilot CC3D EVO Flight Controller STM32 for RC Drone FPV Racing,,1813.0,False,,2026-04-05 21:44:04
+https://www.flyrobo.in/gps_folding_antenna_metal_holder,flyrobo,GPS Folding stand Antenna Metal Holder,,234.0,True,,2026-04-05 21:44:05
+https://www.flyrobo.in/dji-f450-quadcopter-frame-kit-with-integrated-pcb,flyrobo,F450 Quadcopter drone frame Kit with integrated PCB,,722.0,True,,2026-04-05 21:44:06
+https://www.flyrobo.in/flysky_fs-i6s_2.4g_10ch_afhds_2a_transmitter,flyrobo,Flysky FS-i6S 2.4G 10CH AFHDS Transmitter With FS-iA10B 10CH Receiver,,7611.0,True,,2026-04-05 21:44:06
+https://www.flyrobo.in/xt60_connector_2_female_to_1_males,flyrobo,XT60 Connector 2 Female to 1 Males Parallel Connection Cable,,215.0,False,,2026-04-05 21:44:09
+https://www.flyrobo.in/imax_b6-ac_b6ac_lipo_nimh_3s_rc,flyrobo,iMAX B6-AC B6AC Lipo NiMH RC Battery Balance Charger,,2591.0,True,,2026-04-05 21:44:12
+https://www.flyrobo.in/simonk_30a_2-3s_brushless_esc_for_rc,flyrobo,SimonK 30A 2-3S Brushless ESC For RC Model (High Quality),,355.0,True,,2026-04-05 21:44:12
+https://www.flyrobo.in/xt60_parallel_connector_1_female_2_male,flyrobo,XT60 Parallel Connector 1 Female 2 Male,,256.0,False,,2026-04-05 21:44:12
+https://www.flyrobo.in/1_pair_fireproof_t_plug_connector,flyrobo,1 Pair T Plug dean Connector For RC ESC,,27.0,True,,2026-04-05 21:44:13
+https://www.flyrobo.in/dc_3_6v_bo_gear_motor_for_arduino,flyrobo,200RPM DC 3-6V Dual Shaft BO Gear Motor For Arduino Smart Car,,57.0,True,,2026-04-05 21:44:15
+https://www.flyrobo.in/l293d-stepper-motor-driver-ic-chip,flyrobo,L293D Stepper Motor Driver IC Chip,,26.0,True,,2026-04-05 21:44:16
+https://www.flyrobo.in/solar-panel-6v,flyrobo,Solar cell Panel  6V-100mA,,161.0,True,,2026-04-05 21:44:17
+https://www.flyrobo.in/10rpm-12v-dc-metal-geared-motor,flyrobo,10RPM 12V DC Metal Geared Motor,,207.0,True,,2026-04-05 21:44:18
+https://www.flyrobo.in/dc_12v_1000rpm_geared_motor,flyrobo,DC 12V 1000RPM Metal Geared Motor,,157.0,True,,2026-04-05 21:44:20
+https://www.flyrobo.in/color-sensor-tcs230-tcs3200-color-recognition-sensor-detector-module,flyrobo,Color sensor TCS230 TCS3200 Color Recognition Sensor Detector Module,,415.0,False,,2026-04-05 21:44:20
+https://www.flyrobo.in/anti-vibration-set-shock-absorber,flyrobo,3D printed Shock Absorber Anti-vibration Set for APM Pixhawk,,269.0,False,,2026-04-05 21:44:22
+https://www.flyrobo.in/16_teeth_freewheel_sprocket_with_connector,flyrobo,16 Teeth Freewheel Sprocket,,179.0,False,,2026-04-05 21:44:23
+https://www.flyrobo.in/my1016_250w_24v_dc_motor,flyrobo,MY1016 250W 24V DC Motor for E-Bike | Electric bicycle - Original Unite,,2103.0,False,,2026-04-05 21:44:24
+https://www.flyrobo.in/my1016-350w-motor-plus-motor-controller-plus-twist-throttle-for-diy-electric-bicycle-kit,flyrobo,MY1016 350W Motor + Motor Controller + Twist throttle for DIY ELECTRIC BICYCLE KIT,,5193.0,False,,2026-04-05 21:44:24
+https://www.flyrobo.in/imax-b6-dc-degital-lipo-balance-charger-with-cables,flyrobo,iMAX B6 DC B6DC Lipo NiMH RC Battery Balance Charger,,1786.0,True,,2026-04-05 21:44:25
+https://www.flyrobo.in/arduino-uno-r3-smd-compatible-board-plus-cable-for-arduino-uno,flyrobo,Arduino Uno R3 SMD Compatible Board + Cable for Arduino Uno,,377.0,True,,2026-04-05 21:44:26
+https://www.flyrobo.in/flysky-fs-ct6b-2.4g-6ch-radio-set-system-with-rx-fs-r6b-receiver,flyrobo,FlySky FS-CT6B 2.4G 6CH Radio Set System with RX FS-R6B receiver.,,3464.0,True,,2026-04-05 21:44:30
+https://www.flyrobo.in/iic_i2c_backlight_lcd_display_module_for_arduino,flyrobo,IIC/I2C  Backlight LCD Display Module For Arduino,,285.0,False,,2026-04-05 21:44:30
+https://www.flyrobo.in/oled-0-96-inch-i2c-display-module,flyrobo,OLED 0.96 inch 4 pin I2C 128 X 64 DISPLAY MODULE - Blue,,215.0,True,,2026-04-05 21:44:30
+https://www.flyrobo.in/high-torque-side-shft-dc-geared-motor-100rpm,flyrobo,100RPM High Torque Side Shaft DC Metal Geared Johnson Motor,,462.0,False,,2026-04-05 21:44:31
+https://www.flyrobo.in/high-torque-side-shaft-dc-geared-motor-600rpm,flyrobo,500RPM High Torque Side Shaft DC Metal Geared Johnson Motor,,507.0,False,,2026-04-05 21:44:32
+https://www.flyrobo.in/advance-metal-chassis-for-robots-white,flyrobo,Advance Metal Chassis For Robots White,,197.0,False,,2026-04-05 21:44:32
+https://www.flyrobo.in/robot-wheel-11-x-2-cm-for-motors,flyrobo,Robot Wheel 11 x 2 cm For Motors,,59.0,True,,2026-04-05 21:44:33
+https://www.flyrobo.in/blue-led-5mm-pack-100-light-emitting-diod,flyrobo,Blue LED 5mm Pack Of 100  (Light Emitting Diod),,107.0,True,,2026-04-05 21:44:36
+https://www.flyrobo.in/robotic-switch-box-with-2-dpdt-switch,flyrobo,Robotic Switch Box with 2 DPDT Switch,,81.0,True,,2026-04-05 21:44:36
+https://www.flyrobo.in/center-shaft-gear-motor-l-clamp,flyrobo,Center Shaft Gear Motor L Clamp,,76.0,True,,2026-04-05 21:44:37
+https://www.flyrobo.in/green-led-5mm-pack-100,flyrobo,Green LED 5mm Pack Of 100  (Light Emitting Diod),,107.0,True,,2026-04-05 21:44:39
+https://www.flyrobo.in/l293d-motor-driver-stepper-motor-driver-module-for-arduino-and-diy-projects,flyrobo,L293D Motor Driver / Stepper Motor Driver Module for ARDUINO and DIY PROJECTS,,93.0,True,,2026-04-05 21:44:40
+https://www.flyrobo.in/usb-cable-for-arduino-nano-usb-2.0-usb-2.0-mini-b-30cm,flyrobo,USB Cable for Arduino Nano - USB 2.0 A to USB 2.0 Mini B,,27.0,True,,2026-04-05 21:44:42
+https://www.flyrobo.in/micro-usb-cable-usb-2.0-male-micro-b-male,flyrobo,Micro USB Cable | USB 2.0 A Male to Micro-B Male,,38.0,True,,2026-04-05 21:44:43
+https://www.flyrobo.in/1000kv-a2212-brushless-motor-with-simonk-30a-esc-for-rc-airplane-quadcopter-multirotor,flyrobo,1000kv A2212 Brushless Motor with Simonk 30A ESC For RC Airplane / Quadcopter / Multirotor - FlyRobo,,740.0,True,,2026-04-05 21:44:44
+https://www.flyrobo.in/1000kv-a2212-brushless-motor-with-30a-esc-for-rc-airplane-quadcopter-multirotor,flyrobo,1000kv A2212 Brushless Motor with 30A ESC For RC Airplane / Quadcopter / Multirotor,,823.0,True,,2026-04-05 21:44:44
+https://www.flyrobo.in/wanhao-blue-pla-1.75-mm-1-kg-filament-for-3d-printer-premium-quality-filament-1,flyrobo,WANHAO Blue PLA 1.75 mm 1 Kg Filament For 3D Printer – Premium Quality Filament,,1457.0,False,,2026-04-05 21:44:44
+https://www.flyrobo.in/wanhao-orange-pla-1.75-mm-1-kg-filament-for-3d-printer-premium-quality-filament-1-1,flyrobo,WANHAO Orange PLA 1.75 mm 1 Kg Filament For 3D Printer – Premium Quality Filament,,1457.0,False,,2026-04-05 21:44:45
+https://www.flyrobo.in/wanhao-red-pla-1.75-mm-1-kg-filament-for-3d-printer-premium-quality-filament-1,flyrobo,WANHAO Black PLA 1.75 mm 1 Kg Filament For 3D Printer – Premium Quality Filament,,1457.0,False,,2026-04-05 21:44:46
+https://www.flyrobo.in/castor-wheel-small,flyrobo,Castor Wheel Small - Metal,,19.0,True,,2026-04-05 21:44:47
+https://www.flyrobo.in/12v-10a-smps-industrial-power-supply-for-industrial-project-and-3d-printer,flyrobo,12V 10A SMPS Industrial Power Supply for industrial project and 3D Printer,,852.0,False,,2026-04-05 21:44:51
+https://www.flyrobo.in/timing-belt-gt2-2mm-pitch-1meter,flyrobo,Timing Belt GT2 - 2MM Pitch- Width 6mm - 1 Meter,,81.0,True,,2026-04-05 21:44:51
+https://www.flyrobo.in/mk8-extruder-1.75mm-0.4mm-nozzle-assembled-print-head-for-3d-printer,flyrobo,MK8 Extruder 1.75mm 0.4mm Nozzle Assembled Print Head For 3D Printer,,1877.0,False,,2026-04-05 21:44:52
+https://www.flyrobo.in/f450-quadcopter-frame-board-centre-plate,flyrobo,F450 Quadcopter Frame Board Centre Plates - FlyRobo,,256.0,True,,2026-04-05 21:44:53
+https://www.flyrobo.in/2mm-pitch-female-burg-strip-40-pin-5-pcs,flyrobo,2.54mm Pitch Female Burg Strip 40 pin,,17.0,True,,2026-04-05 21:44:54
+https://www.flyrobo.in/multi-servo-tester-esc-tester,flyrobo,"Multi Servo Tester, ESC Tester, PPM Generator",,92.0,True,,2026-04-05 21:44:55
+https://www.flyrobo.in/solder-iron-25w-yellow,flyrobo,25W 230V Soldering Iron - High Quality Solder Product,,265.0,True,,2026-04-05 21:44:55
+https://www.flyrobo.in/digital-multimeter-dt830d-multipurpose-electric-meter,flyrobo,Digital Multimeter DT830D - Multipurpose Electric meter,,168.0,True,,2026-04-05 21:44:56
+https://www.flyrobo.in/rfid-125khz-card-tag,flyrobo,RFID 125KHZ Card Tag,,82.0,True,,2026-04-05 21:44:59
+https://www.flyrobo.in/rc522-rfid-13.56mhz-reader-writer-module,flyrobo,RC522 RFID 13.56MHZ Reader Writer Module,,64.0,True,,2026-04-05 21:44:59
+https://www.flyrobo.in/planetary-geared-motor-24v-175rpm-100w,flyrobo,1K ohm Resistor,,1.0,True,,2026-04-05 21:45:00
+https://www.flyrobo.in/5v-2a-dc-power-supply-adapter,flyrobo,5V 2A DC Power Supply  Adapter,,179.0,False,,2026-04-05 21:45:01
+https://www.flyrobo.in/12v-1a-dc-power-supply-adapter,flyrobo,12V 1A DC Power Supply Adaptor,,129.0,True,,2026-04-05 21:45:01
+https://www.flyrobo.in/bo-gear-motor-wheel-red,flyrobo,BO Gear Motor Wheel - Red,,11.4,False,,2026-04-05 21:45:02
+https://www.flyrobo.in/planetary-dc-geared-motor-mega-torque-12v-dc-45rpm,flyrobo,Planetary DC Geared Motor Mega Torque 12V DC 45RPM,,3184.0,False,,2026-04-05 21:45:04
+https://www.flyrobo.in/5pcs-white-transparent-led-light-diode-5mm-light-emitting-diod,flyrobo,5pcs White Transparent LED Light  Diode 5mm (Light Emitting Diod),,22.0,True,,2026-04-05 21:45:06
+https://www.flyrobo.in/blue-led-5mm-pack-5-light-emitting-diod,flyrobo,Blue LED 5mm Pack Of 5 (Light Emitting Diod),,22.0,True,,2026-04-05 21:45:07
+https://www.flyrobo.in/green-led-5mm-light-emitting-diod,flyrobo,Green LED 5mm  (Light Emitting Diod),,5.0,True,,2026-04-05 21:45:08
+https://www.flyrobo.in/red-led-5mm-light-emitting-diod,flyrobo,Red LED 5mm  (Light Emitting Diod),,5.0,True,,2026-04-05 21:45:10
+https://www.flyrobo.in/red-led-5mm-pack-5-light-emitting-diod,flyrobo,Red LED 5mm Pack Of 5  (Light Emitting Diod),,22.0,True,,2026-04-05 21:45:10
+https://www.flyrobo.in/red-led-5mm-pack-10-light-emitting-diod,flyrobo,Red LED 5mm Pack Of 10  (Light Emitting Diod),,14.0,True,,2026-04-05 21:45:10
+https://www.flyrobo.in/transistor-bc337-npn-transistor-other,flyrobo,Transistor BC337 | NPN Transistor,,10.0,True,,2026-04-05 21:45:12
+https://www.flyrobo.in/dji-naza-m-lite-v1.1-with-gps-kit,flyrobo,DJI NAZA-M Lite V1.1 with GPS Kit,,15502.0,False,,2026-04-05 21:45:14
+https://www.flyrobo.in/4017-decade-counter-ic-other,flyrobo,4017 Decade Counter IC,,15.0,True,,2026-04-05 21:45:16
+https://www.flyrobo.in/lm358-ic-low-power-dual-operational-amplifier-op-amp-ic-other,flyrobo,LM358 IC Low Power Dual Operational Amplifier Op Amp IC,,20.0,True,,2026-04-05 21:45:16
+https://www.flyrobo.in/emax-rs2205-2300kv-racespec-motor-for-fpv-racing-cooling-series-brushless-motor,flyrobo,EMAX RS2205 2300KV RaceSpec Motor for FPV Racing - Cooling Series - CCW ( Original ),,1284.0,False,,2026-04-05 21:45:18
+https://www.flyrobo.in/emax-2400kv-brushless-motor-rs2306-racespec-for-fpv-drone-brushless-motor,flyrobo,Emax 2400kv Brushless motor RS2306 - RaceSpec for FPV Drone,,2505.0,False,,2026-04-05 21:45:18
+https://www.flyrobo.in/emax-650kv-brushless-motor-mt3515-for-multirotor-brushless-motor,flyrobo,Emax 650KV Brushless Motor MT3515 for multirotor,,3799.0,False,,2026-04-05 21:45:20
+https://www.flyrobo.in/emax-esc-lightning-30a-f396-oneshot-mulitshot-2-4s-esc,flyrobo,Emax ESC  Lightning 30A F396 Oneshot Mulitshot 2-4s  (Original),,1828.0,False,,2026-04-05 21:45:20
+https://www.flyrobo.in/6.8k-6k8-ohm-resistor-other,flyrobo,6.8K (6k8) ohm Resistor,,1.0,True,,2026-04-05 21:45:23
+https://www.flyrobo.in/680-ohm-resistor-other,flyrobo,680 ohm Resistor,,1.0,True,,2026-04-05 21:45:24
+https://www.flyrobo.in/47k-ohm-resistor-other,flyrobo,47K ohm Resistor,,1.0,True,,2026-04-05 21:45:24
+https://www.flyrobo.in/270k-ohm-resistor-other,flyrobo,270k ohm Resistor,,1.0,True,,2026-04-05 21:45:25
+https://www.flyrobo.in/1-ohm-resistor-other,flyrobo,1 ohm Resistor,,1.0,True,,2026-04-05 21:45:26
+https://www.flyrobo.in/4k7-4.7k-ohm-resistor-other,flyrobo,4k7 (4.7k) ohm Resistor,,1.0,True,,2026-04-05 21:45:27
+https://www.flyrobo.in/5v-1-channel-ssr-relay-module-solid-state-relay-module-with-fuse-sensor,flyrobo,5V 1 Channel SSR Relay Module (Solid State Relay Module) with Fuse,,99.0,True,,2026-04-05 21:45:27
+https://www.flyrobo.in/47uf-25v-electrolytic-capacitor-resistors,flyrobo,47uf / 25v Electrolytic Capacitor,,3.0,True,,2026-04-05 21:45:28
+https://www.flyrobo.in/5v-4-channel-ssr-relay-module-solid-state-relay-module-with-fuse-sensor,flyrobo,5V 4 Channel SSR Relay Module (Solid State Relay Module) with Fuse,,380.0,True,,2026-04-05 21:45:28
+https://www.flyrobo.in/1uf-63v-electrolytic-capacitor-1,flyrobo,1uf / 63v Electrolytic Capacitor,,4.0,True,,2026-04-05 21:45:30
+https://www.flyrobo.in/high-quality-2.4ghz-antenna-for-transmitter-and-receiver,flyrobo,2.4GHz Antenna for RC transmitter and Receiver,,64.0,True,,2026-04-05 21:45:31
+https://www.flyrobo.in/10uf-63v-electrolytic-capacitor-resistors,flyrobo,10uf / 63v Electrolytic Capacitor,,3.5,True,,2026-04-05 21:45:33
+https://www.flyrobo.in/22uf-25v-electrolytic-capacitor-resistors,flyrobo,22uf / 25v Electrolytic Capacitor,,2.9,True,,2026-04-05 21:45:33
+https://www.flyrobo.in/nokia-5110-lcd-display-module-84-x-48-sensor,flyrobo,Nokia 5110 LCD Display Module 84 x 48,,262.0,False,,2026-04-05 21:45:33
+https://www.flyrobo.in/heliway-902-mini-quadcopter-drone-with-wifi-camera,flyrobo,HELIWAY 902 Mini quadcopter drone,,4859.0,False,,2026-04-05 21:45:35
+https://www.flyrobo.in/mcp3008-ic-smd-package-8-channel-10-bit-adc-with-spi-interface-ic-ics-integrated-circuits-chips-core-electronics,flyrobo,MCP3008 IC - (SMD Package) - 8-Channel 10-Bit ADC With SPI Interface IC,,316.0,False,,2026-04-05 21:45:38
+https://www.flyrobo.in/lm324-ic-low-power-quad-op-amp-ic-ics-integrated-circuits-chips-core-electronics,flyrobo,LM324 IC  - Low Power Quad Op-Amp IC,,13.0,True,,2026-04-05 21:45:38
+https://www.flyrobo.in/microchip-pic16f877a-flash-8kbyte-4mhz-microcontroller-ics-integrated-circuits-chips-core-electronics,flyrobo,Microchip PIC16F877A - Flash 8kbyte 4MHz Microcontroller,,325.0,False,,2026-04-05 21:45:39
+https://www.flyrobo.in/lm358-smd-ic-low-power-dual-op-amp-ic-ics-integrated-circuits-chips-core-electronics,flyrobo,LM358 SMD IC - Low Power Dual Op-Amp IC,,10.0,True,,2026-04-05 21:45:39
+https://www.flyrobo.in/atmega8a-microcontroller-tqfp-32-ics-integrated-circuits-chips-core-electronics,flyrobo,ATmega8A Microcontroller - TQFP 32,,107.0,False,,2026-04-05 21:45:39
+https://www.flyrobo.in/adc0808-adc0809-ic-8-bit-adc-converters-ic-ics-integrated-circuits-chips-core-electronics,flyrobo,ADC0809 IC - 8-Bit ADC Converters IC,,106.2,False,,2026-04-05 21:45:39
+https://www.flyrobo.in/lm393-sop8-smd-low-power-low-offset-voltage-dual-comparator-ics-integrated-circuits-chips-core-electronics,flyrobo,LM393 SOP8 SMD Low Power Low Offset Voltage Dual Comparator,,5.78,True,,2026-04-05 21:45:40
+https://www.flyrobo.in/atmega328p-microcontroller-ics-integrated-circuits-chips-core-electronics,flyrobo,ATmega328 Microcontroller IC,,332.0,True,,2026-04-05 21:45:40
+https://www.flyrobo.in/ds1307-pdip-8-real-time-calendar-and-clock-ics-integrated-circuits-chips-core-electronics,flyrobo,DS1307 PDIP-8 Real Time Calendar and Clock,,19.0,True,,2026-04-05 21:45:44
+https://www.flyrobo.in/atmega32-8-bit-atmel-avr-microcontroller-ics-integrated-circuits-chips-core-electronics,flyrobo,ATmega32  8 Bit ATMEL AVR Microcontroller,,302.0,True,,2026-04-05 21:45:45
+https://www.flyrobo.in/irf840-n-channel-8a-500v-power-mosfet-ics-integrated-circuits-chips-core-electronics,flyrobo,IRF840 N-channel 8A 500V Power MOSFET,,44.0,True,,2026-04-05 21:45:46
+https://www.flyrobo.in/royal-generation-h235-smart-camera-drone,flyrobo,Royal Generation H235 Smart Camera Drone,,4211.0,False,,2026-04-05 21:45:46
+https://www.flyrobo.in/creality-3d-ender-3-v-slot-prusa-i3-diy-3d-printer-kit-220x220x250mm-printing-size-power-resume-function-mk10-extruder-1.75mm-0.4mm-nozzle-3d-printers-3d-printer-and-accessories-2,flyrobo,Creality Ender 3 PRO 3d printer -  220x220x250mm Printing Size - Power Resume Function - MK10 Extruder - 1.75mm - 0.4mm Nozzle,,23313.0,False,,2026-04-05 21:45:47
+https://www.flyrobo.in/flysky-fs-i6-2.4g-6ch-afhds-rc-radion-transmitter-for-rc-fpv-drone-mode-2-left-hand-throttle-rc-remote-multirotor,flyrobo,FlySky FS-i6 2.4G 6CH AFHDS RC Radion Transmitter for RC FPV Drone - Mode 2 (Left Hand Throttle),,5151.0,False,,2026-04-05 21:45:47
+https://www.flyrobo.in/raspberry-pi-4-model-b-with-1-gb-ram,flyrobo,Raspberry Pi 4 Model-B with 1 GB RAM,,4072.0,False,,2026-04-05 21:45:47
+https://www.flyrobo.in/raspberry-pi-3-3b-plastic-case-red-and-white-raspberry-pi-accessories-raspberry-pi,flyrobo,Raspberry Pi 3/3B+ Plastic Case (Red and White),,144.0,False,,2026-04-05 21:45:49
+https://www.flyrobo.in/raspberry-pi-zero-with-built-wifi-and-bluetooth,flyrobo,Raspberry Pi Zero With In-Built Wifi and Bluetooth,,2051.0,False,,2026-04-05 21:45:50
+https://www.flyrobo.in/2-channel-logic-level-converter-module,flyrobo,2 Channel Logic Level Converter Module,,54.0,True,,2026-04-05 21:45:51
+https://www.flyrobo.in/usb-wifi-module-for-raspberry-pi-andpc-and-other-wifi-usb-adapters,flyrobo,"USB-WIFI Module for Raspberry Pi, PC and Other - Wifi USB Adapters",,359.0,False,,2026-04-05 21:45:52
+https://www.flyrobo.in/flex-cable-for-raspberry-pi-camera,flyrobo,150mm Flex Cable for Raspberry PI Camera,,30.0,True,,2026-04-05 21:45:53
+https://www.flyrobo.in/raspberry-pi-2-and-3-model-b-b-plus-abs-transparent-modular-case,flyrobo,Raspberry Pi 2 and 3 Model B/B+ ABS Transparent Modular case,,146.0,True,,2026-04-05 21:45:54
+https://www.flyrobo.in/small-solenoid-lock-low-power-consumption-12v-electronic-door-lock,flyrobo,Small Solenoid Lock low power consumption - 12v Electronic Door Lock,,388.0,False,,2026-04-05 21:45:54
+https://www.flyrobo.in/4-channel-logic-level-converter-module,flyrobo,4 Channel IIC I2C Logic Level Bi-Directional Module  Converter Module 5V to 3.3V,,16.0,True,,2026-04-05 21:45:54
+https://www.flyrobo.in/heat-shrink-sleeve-2mm-1-meter-black,flyrobo,2mm 1-meter Heat Shrink Polyolefin Sleeve Black,,15.0,True,,2026-04-05 21:45:56
+https://www.flyrobo.in/heat-shrink-sleeve-1.5mm-1-meter-black,flyrobo,1.5mm 1-meter Heat Shrink Polyolefin Sleeve Black,,15.0,True,,2026-04-05 21:45:57
+https://www.flyrobo.in/heat-shrink-sleeve-6mm-1-meter-black,flyrobo,6mm 1-meter Heat Shrink Polyolefin Sleeve Black,,28.0,True,,2026-04-05 21:45:58
+https://www.flyrobo.in/heat-shrink-sleeve-8mm-1-meter-black,flyrobo,8mm 1-meter Heat Shrink Polyolefin Sleeve Black,,26.0,True,,2026-04-05 21:45:58
+https://www.flyrobo.in/92mm-1-meter-pvc-heat-shrink-sleeve-black-for-lithium-cell-pack-1,flyrobo,93mm 1-Meter PVC Heat Shrink Sleeve Black for Lithium Cell Pack,,30.0,True,,2026-04-05 21:46:01
+https://www.flyrobo.in/m2.5-x-6.5mm-socket-head-cap-allen-screws-pack-10-screws,flyrobo,M2.5 X 6MM Socket Head Cap (Allen) Screws,,6.0,True,,2026-04-05 21:46:01
+https://www.flyrobo.in/high-quality-allen-key-2mm,flyrobo,Allen Key 2mm,,21.0,True,,2026-04-05 21:46:03
+https://www.flyrobo.in/metal-hotend-e3d-extruder-for-3d-printers-reprap-prusa,flyrobo,Metal hotend E3D Extruder for 3D Printers Reprap Prusa,,496.0,False,,2026-04-05 21:46:03
+https://www.flyrobo.in/gas-sensor-kit-includes-9-gas-sensor,flyrobo,Gas Sensor Kit Includes 9 Gas Sensor,,1047.0,True,,2026-04-05 21:46:04
+https://www.flyrobo.in/arduino-due-r3-board-clone-model,flyrobo,Arduino Due R3 ARM Cortex-M3 Compatible Board,,1641.0,False,,2026-04-05 21:46:05
+https://www.flyrobo.in/mq-6-liquefied-petroleum-isobutane-propane-gas-sensor-module,flyrobo,MQ-6 Liquefied Petroleum Isobutane Propane Gas Sensor module,,91.0,True,,2026-04-05 21:46:05
+https://www.flyrobo.in/soil-moisture-meter-andsoil-humidity-sensor-andwater-sensor-andsoil-hygrometer-for-ardunio,flyrobo,"Soil Moisture Meter, Soil Humidity Sensor, Water Sensor, Soil Hygrometer for Ardunio",,36.0,True,,2026-04-05 21:46:08
+https://www.flyrobo.in/mq-9-carbon-monoxide-andmethane-and-lpg-gas-sensor-module,flyrobo,"MQ-9 Carbon Monoxide, Methane and LPG Gas Sensor Module",,112.0,True,,2026-04-05 21:46:08
+https://www.flyrobo.in/multi-purpose-hot-melt-glue-sticks-for-glue-gun-5-pcs,flyrobo,Multi-purpose Hot Melt Glue Sticks for Glue Gun - 5 Pcs,,74.0,True,,2026-04-05 21:46:09
+https://www.flyrobo.in/hot-glue-gun-100w-with-2-glue-sticks,flyrobo,Hot Glue Gun 100W,,343.0,True,,2026-04-05 21:46:10
+https://www.flyrobo.in/4-pin-rmc-connector-rmc-female-open-end,flyrobo,4 pin RMC connector - RMC Female to open End Wire,,6.0,False,,2026-04-05 21:46:11
+https://www.flyrobo.in/arduino_uno_r3_with_cable_for_arduino_uno-1,flyrobo,Arduino UNO R3 Compatible Development Board,,496.0,True,,2026-04-05 21:46:12
+https://www.flyrobo.in/quadcopter-drone-combo-with-apm-2.8-kit-for-beginner-motor-esc-propeller-flight-controller-frame-tx-rx-power-module-belt-multirotor-1,flyrobo,Quadcopter Drone Combo with APM 2.8 Kit for beginner (Motor + ESC + Propeller + Flight Controller + Frame + TX-RX Flysky FSi6+ Power module + Belt) - FlyRobo,,16739.0,True,,2026-04-05 21:46:13
+https://www.flyrobo.in/hexacopter-drone-combo-with-pixhawk,flyrobo,Hexacopter Drone Combo with Pixhawk Kit for beginner (Motor + ESC + Propeller + Flight Controller + Frame + TX-RX Flysky FSi6+ Power module + Belt) - FlyRobo,,19817.0,True,,2026-04-05 21:46:14
+https://www.flyrobo.in/10k-ohm-trimpot-trimmer-potentiometer-10-pcs,flyrobo,10K Ohm Trimpot Trimmer Potentiometer,,5.0,True,,2026-04-05 21:46:16
+https://www.flyrobo.in/10mm-white-led-pack-5,flyrobo,10MM LED White with White Light,,8.36,True,,2026-04-05 21:46:17
+https://www.flyrobo.in/1n4007-1a-general-purpose-rectifier-diode,flyrobo,1N4007 - 1A General Purpose rectifier Diode,,3.0,True,,2026-04-05 21:46:17
+https://www.flyrobo.in/a4988-drv8825-stepper-motor-driver-expansion-board,flyrobo,A4988 / DRV8825 Stepper Motor Driver Expansion Board,,64.0,True,,2026-04-05 21:46:20
+https://www.flyrobo.in/9in1-multifunction-arduino-shield-dht11-lm35-buzzer-humidity-ir-receiver-potentiometer-led-switch-ldr,flyrobo,9IN1 Multifunction Arduino Shield DHT11/LM35/Buzzer/Humidity/Ir Receiver/Potentiometer/LED/Switch/LDR,,277.0,True,,2026-04-05 21:46:22
+https://www.flyrobo.in/ir-5mm-rx-infrared-receiver-5mm,flyrobo,IR 5mm RX (Infrared Receiver 5mm),,5.0,True,,2026-04-05 21:46:23
+https://www.flyrobo.in/emax-935kv-cw-multicopter-motor-mt2213-with-propeller-pair-1045,flyrobo,EMAX 935KV CW Multicopter Motor MT2213 with Propeller Pair 1045 (Original),,1365.0,True,,2026-04-05 21:46:23
+https://www.flyrobo.in/avr-40-pin-quick-development-board,flyrobo,AVR 40 pin Quick Development board,,215.0,False,,2026-04-05 21:46:23
+https://www.flyrobo.in/3d-printer-heated-bed-mk2b,flyrobo,3D Printer Heated Bed-MK2B,,555.0,False,,2026-04-05 21:46:23
+https://www.flyrobo.in/tactile-push-button-switch-with-round-cap,flyrobo,Tactile Push Button Switch - 12x12mm,,4.0,True,,2026-04-05 21:46:25
+https://www.flyrobo.in/flysky-fs-i6x-2.4ghz-6ch-afhds-2a-rc-transmitter-with-fs-ia10b-2.4ghz-10ch-receiver,flyrobo,Flysky FS-i6X 2.4GHz 10CH AFHDS 2A RC Transmitter With FS-iA10B 2.4GHz 10CH Receiver,,5304.0,False,,2026-04-05 21:46:27
+https://www.flyrobo.in/ic-74act32-quad-2-input-gate-dip,flyrobo,IC 74ACT32 Quad 2-Input/Gate Dip,,21.0,False,,2026-04-05 21:46:29
+https://www.flyrobo.in/ic-74hc86-quad-2-input-exclusive-or-gate-dip,flyrobo,IC 74HC86 Quad 2-Input Exclusive or Gate Dip,,18.0,False,,2026-04-05 21:46:30
+https://www.flyrobo.in/female-header-burg-strip-40x2-pin,flyrobo,Female Header Burg Strip 40X2 Pin,,21.0,True,,2026-04-05 21:46:32
+https://www.flyrobo.in/sandisk-16gb-class-10-micro-sd-sdhc-memory-card,flyrobo,SanDisk 16GB Class 10 Micro SD/SDHC Memory Card,,415.0,False,,2026-04-05 21:46:32
+https://www.flyrobo.in/waterproof-ultrasonic-obstacle-sensor,flyrobo,Waterproof Ultrasonic Obstacle Sensor,,278.0,True,,2026-04-05 21:46:33
+https://www.flyrobo.in/1.3-inch-128-64-oled-display-screen-module-with-spi-serial-interface-v2,flyrobo,1.3 Inch I2C IIC Blue OLED 4 pin LCD Module 4pin (with VCC GND) - Flyrobo.in,,345.0,True,,2026-04-05 21:46:33
+https://www.flyrobo.in/dc-12v-kk-p30-25-15kg-lifting-solenoid-electromagnet,flyrobo,DC 12V KK-P30/25 15KG Lifting Solenoid Electromagnet,,453.0,False,,2026-04-05 21:46:34
+https://www.flyrobo.in/nylon-flexible-black-100pcs-straps-200-mm-x-3.9-mm-cable-tie,flyrobo,200 mm X 3.5 mm Nylon Flexible Black 100pcs Straps  Cable Tie,,84.0,True,,2026-04-05 21:46:36
+https://www.flyrobo.in/nylon-flexible-white-100pcs-straps-100-mm-x-2.5-mm-cable-tie,flyrobo,100 mm X 2.5 mm Nylon Flexible White 100pcs Straps Cable Tie,,49.0,True,,2026-04-05 21:46:37
+https://www.flyrobo.in/nylon-flexible-white-100pcs-straps-300-mm-x-4.6-mm-cable-tie,flyrobo,300 mm X 3.6 mm Nylon Flexible White 100pcs Straps  Cable Tie,,99.0,True,,2026-04-05 21:46:37
+https://www.flyrobo.in/stm32f103c8t6-development-board-stm32-arm-core-module,flyrobo,STM32F103C8T6 Development Board STM32 ARM Core Module,,165.0,True,,2026-04-05 21:46:41
+https://www.flyrobo.in/tp4056-1a-li-ion-battery-charger-with-current-protection,flyrobo,TP4056 1A Li-Ion Battery Charger with Current Protection – Micro USB,,13.0,True,,2026-04-05 21:46:41
+https://www.flyrobo.in/lm393-photosensitive-ldr-sensor-module,flyrobo,LM393 Photosensitive LDR Sensor Module (4pin),,29.0,True,,2026-04-05 21:46:42
+https://www.flyrobo.in/hdmi-female-mini-hdmi-male-adapter,flyrobo,HDMI Female to Micro HDMI Male Adapter,,48.0,True,,2026-04-05 21:46:44
+https://www.flyrobo.in/5v-3010-cooling-fan-for-raspberry-pi,flyrobo,5V 3010 Cooling Fan for Raspberry Pi,,87.0,True,,2026-04-05 21:46:44
+https://www.flyrobo.in/mini-650nm-6mm-5mw-laser-dot-diode-module,flyrobo,Mini 650nm 6mm 5mW Laser Dot Diode Module,,16.0,True,,2026-04-05 21:46:45
+https://www.flyrobo.in/5v-step-up-power-module-lithium-battery-charging-protection-board-usb,flyrobo,5V Step-Up Power Module Lithium Battery Charging Protection Board USB 134N3P,,21.0,True,,2026-04-05 21:46:46
+https://www.flyrobo.in/load-cell-mini-10kg-weight-sensor,flyrobo,10KG Load Cell Mini Weight Sensor,,125.0,True,,2026-04-05 21:46:48
+https://www.flyrobo.in/voltage-detection-sensor-module-25v,flyrobo,Voltage Detection Sensor Module 25V,,20.0,True,,2026-04-05 21:46:48
+https://www.flyrobo.in/tcrt5000-reflective-ir-sensor-photoelectric-switch,flyrobo,TCRT5000L Reflective IR Sensor Photoelectric Switch,,12.0,True,,2026-04-05 21:46:50
+https://www.flyrobo.in/1-uf-50v-through-hole-electrolytic-capacitor,flyrobo,1 uF 50V Through Hole Electrolytic Capacitor,,2.0,True,,2026-04-05 21:46:50
+https://www.flyrobo.in/5kg-load-cell-mini-weight-sensor,flyrobo,5KG Load Cell Mini Weight Sensor,,162.0,True,,2026-04-05 21:46:50
+https://www.flyrobo.in/mega-pluswifi-r3-atmega2560plusnodemcu-esp8266-32mb-memory-usb-ttl-ch340g-compatible-for-arduino-mega,flyrobo,Mega +WiFi R3 Atmega2560+NodeMCU ESP8266 32Mb Memory USB-TTL CH340G Compatible for Arduino Mega,,1227.0,False,,2026-04-05 21:46:52
+https://www.flyrobo.in/550-diaphragm-pump-12v-water-pump,flyrobo,550 Diaphragm Pump 12V Water Pump,,615.0,False,,2026-04-05 21:46:52
+https://www.flyrobo.in/force-sensor-resistor-39.1mm-square,flyrobo,Force Sensor Resistor 39.1mm Square,,334.0,False,,2026-04-05 21:46:53
+https://www.flyrobo.in/40pcs_10cm_female_to_female_jumper_cable_wire_for_arduino,flyrobo,20cm Female To Female Jumper Cable Wire For Arduino - 40pcs,,53.0,True,,2026-04-05 21:47:39
+https://www.flyrobo.in/three_colour_rgb_smd_led_module_5050,flyrobo,Three Colour RGB SMD LED Module 5050 Full Color Pwm For Arduino MCU,,25.0,True,,2026-04-05 21:47:40
+https://www.flyrobo.in/ardupilot_apm_2.8_flight_control_board_drone,flyrobo,Arducopter APM 2.8 Flight Controller Board for RC Multi Rotor Drone,,5298.0,True,,2026-04-05 21:47:41
+https://www.flyrobo.in/finger_print_sensor,flyrobo,Finger Print Sensor R307 -TTL UART,,896.0,True,,2026-04-05 21:47:43
+https://www.flyrobo.in/kk2.1.5_lcd_flight_controll_board_for_fpv,flyrobo,KK2.1.5 LCD Flight Controll Board for FPV Racing Drone | kk flight controller | FlyRobo,,4698.0,True,,2026-04-05 21:47:43
+https://www.flyrobo.in/hall_effect_magnetic_sensor_module_dc_5v,flyrobo,Hall Effect Magnetic Sensor Module DC 5V For Arduino,,30.0,True,,2026-04-05 21:47:43
+https://www.flyrobo.in/ky-016_rgb_3_color_led_module,flyrobo,RGB 3 Color LED Module For Arduino Red Green Blue,,21.0,True,,2026-04-05 21:47:43
+https://www.flyrobo.in/microphone_sound_sensor_module_voice_sensor_high,flyrobo,Microphone Sound Sensor Module Voice Sensor High Sensitivity Sound Detection Module Whistle Module,,63.0,True,,2026-04-05 21:47:44
+https://www.flyrobo.in/gps_module_ublox_neo-6m_with_electronic_compass,flyrobo,GPS Module Ublox NEO-7M With Electronic Compass for Apm/Pixhawk,,1643.0,True,,2026-04-05 21:47:45
+https://www.flyrobo.in/1045_propeller_10in_10x4.5_for_drone,flyrobo,1045 Propeller 10in 10x4.5 For Drone,,40.0,True,,2026-04-05 21:47:47
+https://www.flyrobo.in/zmr250_v2_carbon_fiber_frame_kit_rc,flyrobo,QAV250 V2 Carbon Fiber Frame Kit RC Drone FPV Racing 3.0mm Arm Thickness,,1060.0,True,,2026-04-05 21:47:48
+https://www.flyrobo.in/flysky_fs-i6_2.4g_6ch_afhds_rc_transmitter,flyrobo,FlySky FS-i6 2.4G 6CH AFHDS RC Transmitter With FS-iA6 Receiver,,5487.0,True,,2026-04-05 21:47:48
+https://www.flyrobo.in/a2212_1000kv_brushless_motor_for_rc_airplane,flyrobo,A2212 1000KV Brushless Motor For RC Airplane / Quadcopter,,393.0,True,,2026-04-05 21:47:49
+https://www.flyrobo.in/a2212_1400kv_brushless_motor_for_rc_airplane,flyrobo,A2212 1400KV Brushless Motor For RC Airplane / Quadcopter,,402.0,True,,2026-04-05 21:47:49
+https://www.flyrobo.in/pixhawk-px4-autopilot-pix-248-32-bit-flight-controller-with-safety-switch-and-buzzer-16gb-card-m8n-gps-cables,flyrobo,Pixhawk PX4 Autopilot 2.4.8 32 Bit Flight Controller kit,,12480.0,True,,2026-04-05 21:47:54
+https://www.flyrobo.in/hj-carbon-fiber-1045,flyrobo,1045 Carbon Fiber CW CCW Propellers  for RC QuadCopter Multirotor - 1045 Propeller,,1054.0,True,,2026-04-05 21:47:54
+https://www.flyrobo.in/my1016z3_350w_motor_combo_for_electric_bike_bicycle,flyrobo,MY1016Z3 350W Motor Combo for Electric Bike / Bicycle (Original Unite),,9719.0,False,,2026-04-05 21:47:55
+https://www.flyrobo.in/60rpm-12v-dc-metal-geared-motor,flyrobo,60RPM 12V DC Metal Geared Motor,,165.0,True,,2026-04-05 21:47:55
+https://www.flyrobo.in/100rpm-12v-dc-metal-geared-motor,flyrobo,100RPM 12V DC Metal Geared Motor,,151.0,True,,2026-04-05 21:47:55
+https://www.flyrobo.in/200rpm-12v-dc-metal-geared-motor,flyrobo,200RPM 12V DC Metal Geared Motor,,165.0,True,,2026-04-05 21:47:56
+https://www.flyrobo.in/towerpro-mg996r-digital-servo-high-torque-metal-ball-bearing,flyrobo,TowerPro MG996R Plastic Gear Servo Motor - 180 degree,,297.0,True,,2026-04-05 21:47:59
+https://www.flyrobo.in/my1016_250w_-motor_controller_twist_throt,flyrobo,MY1016 250W Motor + Motor Controller + Twist throttle for DIY ELECTRIC BICYCLE KIT,,2980.0,False,,2026-04-05 21:48:00
+https://www.flyrobo.in/high-torque-side-shaft-dc-geared-motor-60rpm,flyrobo,60RPM High Torque Side Shaft DC Metal Geared Johnson Motor,,418.0,False,,2026-04-05 21:48:01
+https://www.flyrobo.in/gps-module-ublox-neo-8m-with-electronic-compass-apm-pixhawk,flyrobo,GPS Module Ublox NEO-8M M8N With Electronic Compass for Apm/Pixhawk,,2375.0,False,,2026-04-05 21:48:01
+https://www.flyrobo.in/0.5-meter-red-silicon-wire-14awg-heatproof-soft-silicone-silica-gel-wire-cable-1,flyrobo,14AWG High Quality Red Silicon Wire - 1 Meter,,89.0,True,,2026-04-05 21:48:01
+https://www.flyrobo.in/arduino-lilypad-atmega328p-atmega328,flyrobo,Arduino LilyPad 328 Main Board ATmega328P ATmega328 16M Compatible with Arduino,,366.0,True,,2026-04-05 21:48:02
+https://www.flyrobo.in/drone-f450-450-quadcopter-frame-arm-with-landing-gear-4-axis-multicopter-kit-450f-quadx-quad-multicopter-kk-mk-mwc,flyrobo,Quadcopter F450 Frame with Landing Gear,,875.0,True,,2026-04-05 21:48:02
+https://www.flyrobo.in/small-robot-wheel-5-x-2-cm,flyrobo,Small Robot Wheel 5 x 2 Cm,,25.0,False,,2026-04-05 21:48:05
+https://www.flyrobo.in/100pcs-white-transparent-led-diode-5mm,flyrobo,100pcs White Transparent LED Light  Diode 5mm (Light Emitting Diod),,107.0,True,,2026-04-05 21:48:06
+https://www.flyrobo.in/otg-cable-micro-usb-cable-male-host-usb-female-otg-adapter-for-android-phone,flyrobo,OTG Cable - Micro USB Cable Male Host to USB Female OTG Adapter for Android  Phone,,48.0,False,,2026-04-05 21:48:06
+https://www.flyrobo.in/l-clamp-for-side-shaft-motors,flyrobo,L Clamp For Side Shaft Motors,,87.0,True,,2026-04-05 21:48:06
+https://www.flyrobo.in/wanhao-brown-pla-1.75-mm-1-kg-filament-for-3d-printer-premium-quality-filament-2,flyrobo,WANHAO Brown PLA 1.75 mm 1 Kg Filament For 3D Printer – Premium Quality Filament,,1457.0,False,,2026-04-05 21:48:07
+https://www.flyrobo.in/wanhao-red-pla-1.75-mm-1-kg-filament-for-3d-printer-premium-quality-filament,flyrobo,WANHAO Red PLA 1.75 mm 1 Kg Filament For 3D Printer – Premium Quality Filament,,1457.0,False,,2026-04-05 21:48:09
+https://www.flyrobo.in/wanhao-purple-pla-1.75-mm-1-kg-filament-for-3d-printer-premium-quality-filament-2,flyrobo,WANHAO Purple PLA 1.75 mm 1 Kg Filament For 3D Printer – Premium Quality Filament,,1457.0,False,,2026-04-05 21:48:09
+https://www.flyrobo.in/40-pin-male-header-connector-strip-breakable-right-angle-5pcs,flyrobo,40 pin Male Header connector Strip Breakable Right Angle,,10.0,True,,2026-04-05 21:48:10
+https://www.flyrobo.in/24v-10a-smps-industrial-power-supply,flyrobo,24V 10A SMPS Industrial Power Supply,,1619.0,False,,2026-04-05 21:48:11
+https://www.flyrobo.in/towerpro-mg995-metal-gear-servo-motor-mg995-360-rotation,flyrobo,TowerPro MG995 Plastic Gear Servo Motor MG995 180 degree,,235.0,True,,2026-04-05 21:48:11
+https://www.flyrobo.in/dpdt-switch-for-wired-car-remot,flyrobo,DPDT Switch for Wired Car Remote,,40.0,True,,2026-04-05 21:48:12
+https://www.flyrobo.in/desoldering-pump-solder-sucker,flyrobo,Desoldering Pump - Solder Sucker,,123.0,True,,2026-04-05 21:48:14
+https://www.flyrobo.in/combo-3-type-jumper-cables-f-f-f-m-m-m,flyrobo,Combo of 3 type Jumper Cables | 40 F-F |40 F-M | 40 M-M,,150.0,True,,2026-04-05 21:48:14
+https://www.flyrobo.in/10-pcs-rfid-125khz-card-tag,flyrobo,10 pcs - RFID 125KHZ Card Tag,,114.0,True,,2026-04-05 21:48:16
+https://www.flyrobo.in/13.56mhz-rfid-keychain-tag,flyrobo,13.56MHz RFID keychain Tag,,17.0,True,,2026-04-05 21:48:16
+https://www.flyrobo.in/lm2596-3a-dc-dc-step-down-adjustable-voltage-regulator-other,flyrobo,LM2596 3A DC to DC Step Down Adjustable Voltage Regulator,,48.0,True,,2026-04-05 21:48:16
+https://www.flyrobo.in/1pcs-white-transparent-led-light-diode-5mm-light-emitting-diod,flyrobo,1pcs White Transparent LED Light  Diode 5mm (Light Emitting Diod),,5.0,True,,2026-04-05 21:48:17
+https://www.flyrobo.in/10pcs-white-transparent-led-light-diode-5mm-light-emitting-diod,flyrobo,10pcs White Transparent LED Light  Diode 5mm (Light Emitting Diod),,32.0,True,,2026-04-05 21:48:17
+https://www.flyrobo.in/minim-osd-on-screen-display-module-for-flight-controller-multirotor,flyrobo,Minim OSD On Screen Display Module For Flight Controller,,1389.0,True,,2026-04-05 21:48:18
+https://www.flyrobo.in/green-led-5mm-pack-10-light-emitting-diod,flyrobo,Green LED 5mm Pack Of 10  (Light Emitting Diod),,14.0,True,,2026-04-05 21:48:20
+https://www.flyrobo.in/hm-10-bluetooth-module-ble-4.0,flyrobo,HM-10 Bluetooth Module BLE 4.0,,287.0,True,,2026-04-05 21:48:20
+https://www.flyrobo.in/220-ohm-resistor-other,flyrobo,220 ohm Resistor,,1.0,True,,2026-04-05 21:48:21
+https://www.flyrobo.in/433-mhz-rf-modules-tx-rx-pair-sensor,flyrobo,433 MHZ RF MODULES TX & RX PAIR,,189.0,True,,2026-04-05 21:48:23
+https://www.flyrobo.in/ht12e-ht12d-rf-decoder-ics-encoderdecoder-ic-pairother,flyrobo,HT12E & HT12D  RF Decoder ICs - Encoder/Decoder IC Pair,,96.0,False,,2026-04-05 21:48:23
+https://www.flyrobo.in/2.2k-ohm-resistor-other,flyrobo,2k2 ohm Resistor,,1.0,True,,2026-04-05 21:48:26
+https://www.flyrobo.in/lm317-voltage-regulated-ic-other,flyrobo,LM317 Voltage Regulated IC,,17.0,True,,2026-04-05 21:48:26
+https://www.flyrobo.in/tb6612fng-dual-motor-driver-module-1a-for-arduino-micro-controller,flyrobo,TB6612FNG Dual Motor Driver Module 1A For Arduino Micro controller,,149.0,True,,2026-04-05 21:48:26
+https://www.flyrobo.in/7812-voltage-regularor-ic,flyrobo,7812 Voltage Regularor IC,,21.0,True,,2026-04-05 21:48:27
+https://www.flyrobo.in/lm741-operational-amplifier-ic-other,flyrobo,LM741 Operational amplifier IC,,16.0,True,,2026-04-05 21:48:27
+https://www.flyrobo.in/74hc595-serial-parallel-shifting-ic,flyrobo,74HC595 Serial to Parallel Shifting IC,,17.0,True,,2026-04-05 21:48:27
+https://www.flyrobo.in/emax-12a-esc-blheli-series-with-oneshot-original-esc,flyrobo,Emax 12A ESC BLHeli Series with Oneshot (Original),,914.0,True,,2026-04-05 21:48:30
+https://www.flyrobo.in/27-ohm-resistor-other,flyrobo,27 ohm Resistor,,1.0,True,,2026-04-05 21:48:32
+https://www.flyrobo.in/diy-car-robot-kit-chassis-4-x-motor-4-x-wheels-and-other-accessories-robot-spare-parts,flyrobo,"DIY Car Robot Kit - Chassis, 4 x Motor, 4 x Wheels and other Accessories",,662.0,True,,2026-04-05 21:48:33
+https://www.flyrobo.in/15k-ohm-resistor-other,flyrobo,15K ohm Resistor,,1.0,True,,2026-04-05 21:48:34
+https://www.flyrobo.in/56k-ohm-resistor-other,flyrobo,56K ohm Resistor,,1.0,True,,2026-04-05 21:48:34
+https://www.flyrobo.in/dji-naza-m-v2-flight-controller-multi-rotor-system-with-compass-gps,flyrobo,DJI NAZA M V2 Flight Controller Multi Rotor System with COMPASS GPS,,21329.0,False,,2026-04-05 21:48:35
+https://www.flyrobo.in/4.7uf-63v-electrolytic-capacitor-1-1,flyrobo,4.7uf / 63v Electrolytic Capacitor,,2.3,True,,2026-04-05 21:48:36
+https://www.flyrobo.in/1000uf-25v-electrolytic-capacitor-resistors,flyrobo,1000uf / 25v Electrolytic Capacitor,,10.0,True,,2026-04-05 21:48:37
+https://www.flyrobo.in/taparia-akm-9-allen-key-set-pack-9,flyrobo,Taparia AKM-9 Allen Key Set  (Pack of 9),,215.0,False,,2026-04-05 21:48:37
+https://www.flyrobo.in/100uf-25v-electrolytic-capacitor-resistors,flyrobo,100uf / 25v Electrolytic Capacitor,,4.0,True,,2026-04-05 21:48:37
+https://www.flyrobo.in/at89c51-microcontroller-ic-ics-integrated-circuits-chips-core-electronics,flyrobo,AT89C51 Microcontroller IC,,107.0,True,,2026-04-05 21:48:39
+https://www.flyrobo.in/max232cse-soic-narrow-16-rs-232-interface-ic-ics-integrated-circuits-chips-core-electronics,flyrobo,MAX232CSE SOIC-Narrow-16 RS-232 Interface IC,,27.0,False,,2026-04-05 21:48:42
+https://www.flyrobo.in/apr33a3-ic-11-minutes-voice-recorder-playback-ic-ics-integrated-circuits-chips-core-electronics,flyrobo,APR33A3 IC - 11 Minutes Voice Recorder & Playback IC,,377.0,False,,2026-04-05 21:48:43
+https://www.flyrobo.in/lm2576-step-down-voltage-regulator-ic-ics-integrated-circuits-chips-core-electronics,flyrobo,LM2576 Step-Down Voltage Regulator IC,,41.0,True,,2026-04-05 21:48:43
+https://www.flyrobo.in/atmega8-microcontroller-ic-ics-integrated-circuits-chips-core-electronics,flyrobo,Atmega8 Microcontroller IC,,200.0,False,,2026-04-05 21:48:43
+https://www.flyrobo.in/2.4ghz-nrf24l01-pa-lna-sma-wireless-transceiver-antenna,flyrobo,NRF24L01 2.4GHz PA LNA SMA Wireless Transceiver Antenna,,158.0,True,,2026-04-05 21:48:45
+https://www.flyrobo.in/raspberry-pi-4-model-b-with-4-gb-ram,flyrobo,Raspberry Pi 4 Model-B with 4 GB RAM,,5870.0,False,,2026-04-05 21:48:45
+https://www.flyrobo.in/3500mah-11.1v-30c-3s-build-power-lipo-battery,flyrobo,3500mah 11.1v 30C 3S Build Power Lipo Battery,,3184.0,False,,2026-04-05 21:48:45
+https://www.flyrobo.in/quadcopter-drone-combo-with-naza-m-lite-kit-motor-plus-esc-plus-propeller-plus-flight-controller-plus-frame-plus-tx-rx-plus-power-module-plus-belt,flyrobo,Quadcopter Drone Combo with NAZA M-Lite Kit (Motor + ESC + Propeller + Flight Controller + Frame + TX-RX + Power module + Belt),,16739.0,False,,2026-04-05 21:48:47
+https://www.flyrobo.in/micro-shear-and-nipper-07,flyrobo,Micro Shear and Nipper Cutter,,79.0,False,,2026-04-05 21:48:49
+https://www.flyrobo.in/arduino-compatible-fingerprint-scanner-ttl-gt-521f32,flyrobo,Arduino Compatible Fingerprint Scanner - TTL (GT-521F32),,2346.0,False,,2026-04-05 21:48:51
+https://www.flyrobo.in/92mm-1-meter-pvc-heat-shrink-sleeve-blue-for-lithium-cell-pack,flyrobo,93mm 1-Meter PVC Heat Shrink Sleeve Blue for Lithium Cell Pack,,44.0,True,,2026-04-05 21:48:52
+https://www.flyrobo.in/heat-shrink-sleeve-20mm-1-meter-black,flyrobo,20mm 1-meter Heat Shrink Polyolefin Sleeve Black,,69.0,True,,2026-04-05 21:48:52
+https://www.flyrobo.in/dys-fpv-camera-hdv-1-1080p-video-recorder,flyrobo,DYS FPV Camera HDV-1 1080P Video Recorder,,10507.0,False,,2026-04-05 21:48:53
+https://www.flyrobo.in/ltc3780-adjustable-step-up-down-voltage-regulator-module,flyrobo,LTC3780 Adjustable step up down Voltage Regulator Module,,1148.0,True,,2026-04-05 21:48:54
+https://www.flyrobo.in/soldron-35-watt-nickel-plated-soldering-gun-bit,flyrobo,SOLDRON 35 watt Nickel Plated Soldering Gun Bit,,176.0,False,,2026-04-05 21:48:55
+https://www.flyrobo.in/12v-1a-smps-industrial-power-supply,flyrobo,12V 1A SMPS Industrial Power Supply,,215.0,False,,2026-04-05 21:48:55
+https://www.flyrobo.in/ethernet-w5100-shield-network-expansion-board-w-micro-sd-card-slot-for-arduino,flyrobo,Ethernet W5100 Shield Network Expansion Board w/ Micro SD Card Slot for Arduino,,633.0,True,,2026-04-05 21:48:55
+https://www.flyrobo.in/mq-5-methane-lpg-liquid-propane-gas-sensor-module,flyrobo,MQ-5 Methane LPG Liquid Propane Gas Sensor Module,,89.0,True,,2026-04-05 21:48:57
+https://www.flyrobo.in/pir-motion-detector-sensor-module,flyrobo,PIR Motion Detector Sensor Module,,61.0,True,,2026-04-05 21:48:57
+https://www.flyrobo.in/mq-7-co-carbon-monoxide-coal-gas-sensor-module,flyrobo,MQ-7 CO Carbon Monoxide Coal Gas Sensor Module,,109.0,True,,2026-04-05 21:48:59
+https://www.flyrobo.in/readytosky-2212-920kv-brushless-motor-for-drone-ccw-counter-clockwise-direction,flyrobo,ReadyToSky 2212 920KV Brushless Motor For Drone - CCW (Counter Clockwise) Direction,,669.0,True,,2026-04-05 21:49:00
+https://www.flyrobo.in/hot-glue-gun-40w-with-2-glue-sticks,flyrobo,Hot Glue Gun 40W,,158.0,True,,2026-04-05 21:49:01
+https://www.flyrobo.in/3-pin-rmc-female-female-connector,flyrobo,3 Pin RMC Female to Female Connector Wire,,16.0,False,,2026-04-05 21:49:03
+https://www.flyrobo.in/quadcopter-drone-combo-with-pixhawk-kit-for-beginner-flysky-fsi6,flyrobo,Quadcopter Drone Combo with Pixhawk Kit for beginner (Motor + ESC + Propeller + Flight Controller + Frame + TX-RX Flysky FSi6+ Power module + Belt) | FlyRobo,,21599.0,True,,2026-04-05 21:49:04
+https://www.flyrobo.in/18650-lithium-battery-charger-flashlight-charger-double-slot,flyrobo,18650 lithium battery holder For Battery 2 x 18650 Cell,,20.0,True,,2026-04-05 21:49:04
+https://www.flyrobo.in/hexacopter-drone-combo-with-apm,flyrobo,Hexacopter Drone Combo with APM 2.8  (Motor + ESC + Propeller + Flight Controller + Frame + TX-RX Flysky FSi6+ Power module + Belt) - FlyRobo,,19439.0,True,,2026-04-05 21:49:05
+https://www.flyrobo.in/quadcopter-drone-combo-with-naza-m-lite-kit-with-10ch-tx-rx-motor-plus-esc-plus-propeller-plus-flight-controller-plus-frame-plus-tx-rx-plus-power-module-plus-belt,flyrobo,Quadcopter Drone Combo with NAZA M-Lite Kit  with 10ch TX-RX (Motor + ESC + Propeller + Flight Controller + Frame + TX-RX + Power module + Belt),,17279.0,False,,2026-04-05 21:49:05
+https://www.flyrobo.in/1s-3.7v-3a-li-ion-bms-pcm-battery-protection-board,flyrobo,1S 3.7V 3A Li-ion BMS PCM Battery Protection Board,,36.0,True,,2026-04-05 21:49:05
+https://www.flyrobo.in/10k-potentiometer-tone-control-10-pcs,flyrobo,10K Potentiometer Tone Control,,85.0,False,,2026-04-05 21:49:07
+https://www.flyrobo.in/1n4148-switching-diode-standard-75v-150ma-through-hole,flyrobo,1N4148 Switching Diode Standard 75V 150mA Through Hole,,3.0,True,,2026-04-05 21:49:07
+https://www.flyrobo.in/arduino-uno-protoshield-plus-mini-breadboard,flyrobo,Arduino Uno Protoshield + Mini Breadboard,,80.0,True,,2026-04-05 21:49:10
+https://www.flyrobo.in/5-channel-ir-flame-detector-sensor,flyrobo,5 Channel IR Flame Detector Sensor,,126.0,True,,2026-04-05 21:49:10
+https://www.flyrobo.in/readytosky-2300kv-gt2205-ccw-brushless-motor-for-racing-drone,flyrobo,Readytosky 2300KV GT2205 CCW Brushless Motor for Racing Drone,,1067.0,False,,2026-04-05 21:49:11
+https://www.flyrobo.in/gt511c3-optical-fingerprint-scanner-module,flyrobo,GT511C3 Optical Fingerprint Scanner Module,,2051.0,False,,2026-04-05 21:49:12
+https://www.flyrobo.in/arduino-mega-protoshield-plus-mini-breadboard,flyrobo,Arduino Mega Protoshield + Mini Breadboard,,175.0,True,,2026-04-05 21:49:14
+https://www.flyrobo.in/arduino-sensor-expansion-shield,flyrobo,Arduino Sensor Expansion Shield,,90.0,True,,2026-04-05 21:49:14
+https://www.flyrobo.in/hexacopter-drone-combo-with-pixhawk-and-10ch-flysky-fs-i6s-motor-plus-esc-plus-propeller-plus-flight-controller-plus-frame-plus-tx-rx-flysky-fsi6plus-power-module-plus-belt,flyrobo,Hexacopter Drone Combo with Pixhawk and 10ch FlySky FS-I6S (Motor + ESC + Propeller + Flight Controller + Frame + TX-RX Flysky FSi6+ Power module + Belt),,23759.0,True,,2026-04-05 21:49:14
+https://www.flyrobo.in/quadcopter-drone-combo-with-pixhawk-kit-for-beginner-flysky-fsi6-1,flyrobo,Quadcopter Drone Combo with Pixhawk Kit for beginner (Motor + ESC + Propeller + Flight Controller + Frame + TX-RX Flysky FSi6s (10 channel)+ Power module + Belt) | FlyRobo,,22139.0,True,,2026-04-05 21:49:15
+https://www.flyrobo.in/3d-printer-controller-board-ramps-1.4-arduino-mega-shield-reprap-prusa-model,flyrobo,3D Printer Controller Board RAMPS 1.4 Arduino Mega Shield | RepRap Prusa Model,,318.0,True,,2026-04-05 21:49:15
+https://www.flyrobo.in/a4988-driver-stepper-motor-driver,flyrobo,A4988 Driver Stepper Motor Driver,,69.0,True,,2026-04-05 21:49:16
+https://www.flyrobo.in/ic-74hc04-hex-inverter-dip,flyrobo,IC 74HC04 Hex Inverter Dip,,37.0,False,,2026-04-05 21:49:17
+https://www.flyrobo.in/nylon-flexible-black-100pcs-straps-300-mm-x-5.0-mm-cable-tie,flyrobo,300 mm X 3.6 mm Nylon Flexible Black 100pcs Straps  Cable Tie,,118.0,True,,2026-04-05 21:49:19
+https://www.flyrobo.in/pc817-dip-4-optocoupler-transistor-output,flyrobo,PC817 DIP-4  Optocoupler Transistor Output,,4.0,True,,2026-04-05 21:49:20
+https://www.flyrobo.in/plastic-gps-antenna-foldable-mount-holder,flyrobo,Plastic GPS stand Antenna Foldable Mount Holder,,153.0,True,,2026-04-05 21:49:20
+https://www.flyrobo.in/tb6600-stepper-motor-driver,flyrobo,TB6600 Stepper Motor Driver,,414.0,False,,2026-04-05 21:49:21
+https://www.flyrobo.in/bc547-npn-transistor,flyrobo,BC547 NPN Transistor,,6.0,True,,2026-04-05 21:49:22
+https://www.flyrobo.in/water-flow-sensor-yf-s201-1-2-inch,flyrobo,YF-S201 Water Flow Sensor 1/2 inch,,184.0,False,,2026-04-05 21:49:23
+https://www.flyrobo.in/330-ohm-resistor,flyrobo,330 ohm Resistor,,1.0,True,,2026-04-05 21:49:23
+https://www.flyrobo.in/sc8uu-8-mm-linear-ball-bearing-slider,flyrobo,SC8UU 8 mm Linear Ball Bearing Slider,,150.0,False,,2026-04-05 21:49:25
+https://www.flyrobo.in/raindrop-detection-sensor-module,flyrobo,Raindrop Detection Sensor Module,,47.0,True,,2026-04-05 21:49:26
+https://www.flyrobo.in/sim800l-gprs-gsm-module-micro-sim-card-quad-band-ttl-serial-port,flyrobo,SIM800L GPRS GSM Module Micro SIM Card Quad-band TTL Serial Port,,361.0,True,,2026-04-05 21:49:27
+https://www.flyrobo.in/bmp180-digital-barometric-pressure-sensor-module,flyrobo,BMP180 Digital Barometric Pressure Sensor Module,,36.0,True,,2026-04-05 21:49:30
+https://www.flyrobo.in/ne555-frequency-adjustable-pulse-square-generator-module,flyrobo,NE555 Frequency Adjustable Pulse/Square Generator Module,,51.0,True,,2026-04-05 21:49:30
+https://www.flyrobo.in/ds18b20-waterproof-digital-temperature-sensor,flyrobo,DS18B20 Waterproof Digital Temperature Sensor,,57.0,True,,2026-04-05 21:49:30
+https://www.flyrobo.in/usb-asp-avr-programming-device-for-atmel-processors,flyrobo,USB ASP AVR Programming Device for ATMEL processors,,215.0,True,,2026-04-05 21:49:30
+https://www.flyrobo.in/pl2303-usb-ttl-serial-cable-rs232-module,flyrobo,PL2303 USB to TTL Serial Cable RS232 Module,,118.0,True,,2026-04-05 21:49:31
+https://www.flyrobo.in/samsung-inr18650-25r-2500mah-li-ion-battery-original,flyrobo,Original SAMSUNG INR18650-25R 2500mAh Li-Ion Battery,,556.0,False,,2026-04-05 21:49:32
+https://www.flyrobo.in/ams1117-3.3v-power-supply-module,flyrobo,AMS1117 3.3V Power Supply Module,,15.0,True,,2026-04-05 21:49:38
+https://www.flyrobo.in/ublox-neo-6m-gps-module-with-eprom,flyrobo,Ublox NEO-6M GPS Module with EPROM,,318.0,True,,2026-04-05 21:49:38
+https://www.flyrobo.in/mp3-tf-16p-mp3-sd-card-module-with-serial-port,flyrobo,MP3-TF-16P MP3 SD Card Module with Serial Port,,94.0,True,,2026-04-05 21:49:38
+https://www.flyrobo.in/microswitch-kw10-z1p-limit-switch-1a-125v-ac,flyrobo,Makerbot MK7/MK8 Momentary Micro Limit Switch,,14.0,True,,2026-04-05 21:49:38
+https://www.flyrobo.in/hl340-usb-db9-male-9-pin-rs232-serial-port-com-adapter-cable,flyrobo,HL340 USB to DB9 Male 9 Pin RS232 Serial Port COM Adapter Cable,,91.0,False,,2026-04-05 21:49:39
+https://www.flyrobo.in/pam8403-5v-2-channel-stereo-audio-amplifier,flyrobo,PAM8403 5V  2-Channel Stereo Audio Amplifier,,18.0,True,,2026-04-05 21:49:40
+https://www.flyrobo.in/ov5647-5mp-1080p-ir-cut-camera-for-raspberry-pi-3-4-with-automatic-day-night-mode,flyrobo,OV5647 5MP 1080P IR-Cut Camera with Automatic Day Night Mode for Raspberry Pi 3/4,,819.0,False,,2026-04-05 21:49:40
+https://www.flyrobo.in/db9-female-screw-terminal-rs232-rs485-conversion-board,flyrobo,DB9 Female Screw Terminal to RS232 RS485 Conversion Board,,82.0,True,,2026-04-05 21:49:41
+https://www.flyrobo.in/pl2303-pl2303hx-usb-ttl-converter-module,flyrobo,PL2303 PL2303HX USB to TTL Converter Module,,74.0,True,,2026-04-05 21:49:41
+https://www.flyrobo.in/esp-01-usb-uart-esp8266-adapter-programmer,flyrobo,ESP-01 USB to UART/ESP8266 Adapter Programmer,,74.0,True,,2026-04-05 21:49:41
+https://www.flyrobo.in/case-holder-for-ultrasonic-hc-sr04-sensor-module,flyrobo,Case Holder for Ultrasonic HC-SR04 Sensor Module,,20.0,True,,2026-04-05 21:49:41
+https://www.flyrobo.in/2-pin-power-cord-with-open-ended-cable,flyrobo,2 Pin Power Cord with Open Ended Cable,,30.0,True,,2026-04-05 21:49:47
+https://www.flyrobo.in/hlk-5m05-5v-5w-switch-power-supply-module,flyrobo,HLK-5M05 5V/5W Switch Power Supply Module,,254.0,False,,2026-04-05 21:49:47
+https://www.flyrobo.in/transparent-robot-smart-car-chassis-diy-kit,flyrobo,Transparent 2wd Robot Smart Car Chassis DIY Kit,,265.0,True,,2026-04-05 21:49:47
+https://www.flyrobo.in/bluetooth-and-mobile-control-car-beginner-kit,flyrobo,Bluetooth and mobile control car beginner kit,,2159.0,True,,2026-04-05 21:49:48
+https://www.flyrobo.in/915mhz-100mw-mini-telemetry-kit,flyrobo,3DR 100mW Radio Telemetry 915MHZ For APM PX4 Pixhawk,,5845.0,True,,2026-04-05 21:49:48
+https://www.flyrobo.in/digispark-attiny85-mini-usb-development-board,flyrobo,Digispark ATtiny85 Mini USB Development Board,,246.0,True,,2026-04-05 21:49:48
+https://www.flyrobo.in/transparent-acrylic-glossy-case-enclosure-box-for-arduino-uno-r3,flyrobo,Transparent Acrylic Glossy Case Enclosure Box for Arduino UNO R3,,37.0,True,,2026-04-05 21:49:48
+https://www.flyrobo.in/arduino-rfid-learning-kit-v5-with-instruction-cd-and-uno-smd,flyrobo,Arduino RFID Learning Kit V5 with Instruction CD & UNO SMD,,3023.0,False,,2026-04-05 21:49:48
+https://www.flyrobo.in/force-sensor-resistor-14.7mm,flyrobo,Force Sensor Resistor 14.7mm,,744.0,False,,2026-04-05 21:49:52
+https://www.flyrobo.in/xl4015-5a-dc-dc-adjustable-step-down-power-supply-module,flyrobo,XL4015E1  5A Constant Current and Voltage LED Drives Lithium Battery Charging Module,,110.0,True,,2026-04-05 21:49:52
+https://www.flyrobo.in/ams1117-5v-step-down-power-supply-module,flyrobo,AMS1117 5V Step Down Power Supply Module,,17.0,True,,2026-04-05 21:49:52
+https://www.flyrobo.in/cnc-shield-v3-for-engraving-machine-3d-printer-a4988-drv8825-driver-expansion-board,flyrobo,CNC Shield V3 for Engraving Machine 3D Printer A4988 DRV8825 Driver Expansion Board,,136.0,True,,2026-04-05 21:49:53
+https://www.flyrobo.in/tda2030a-audio-power-amplifier-module,flyrobo,TDA2030A Audio Power Amplifier Module,,72.0,True,,2026-04-05 21:49:53
+https://www.flyrobo.in/adxl345-triple-axis-linear-accelerometer-board,flyrobo,ADXL345 Triple Axis Linear Accelerometer Board,,134.0,True,,2026-04-05 21:49:55
+https://www.flyrobo.in/desoldering-wick,flyrobo,Desoldering Wick,,49.0,True,,2026-04-05 21:49:56
+https://www.flyrobo.in/water-level-depth-detection-sensor-module,flyrobo,Water Level Depth Detection Sensor Module,,21.0,True,,2026-04-05 21:49:58
+https://www.flyrobo.in/isd1820-recording-module-voice-board-with-on-board-mic-and-loud-speaker,flyrobo,ISD1820 Recording Module Voice Board With On Board Mic and Loud Speaker,,147.0,False,,2026-04-05 21:49:58
+https://www.flyrobo.in/4-channel-infrared-tracing-module,flyrobo,4 Channel Infrared Tracing Module,,107.0,True,,2026-04-05 21:50:00
+https://www.flyrobo.in/sim900a-v4.0-kit-wireless-extension-module-gsm-gprs-board-with-antenna,flyrobo,SIM900A Kit Wireless Extension Module GSM GPRS Board with Antenna,,845.0,True,,2026-04-05 21:50:01
+https://www.flyrobo.in/mini-360-dc-dc-buck-converter-step-down-module,flyrobo,Mini 360 DC-DC Buck Converter Step Down Module,,30.0,True,,2026-04-05 21:50:01
+https://www.flyrobo.in/mb102-breadboard-usb-micro-power-supply-module-dual-usb-input-board,flyrobo,MB102 Breadboard USB/Micro Power Supply Module Dual USB Input Board,,65.0,False,,2026-04-05 21:50:02
+https://www.flyrobo.in/3300uf-25v-electrolytic-capacitor,flyrobo,3300uF 25V Electrolytic Capacitor,,24.0,True,,2026-04-05 21:50:02
+https://www.flyrobo.in/esp32-cam-wifi-bluetooth-development-board-with-ov2640-camera-module,flyrobo,ESP32 CAM WiFi Bluetooth Development Board with OV2640 Camera Module,,695.0,True,,2026-04-05 21:50:03
+https://www.flyrobo.in/8-channel-bi-directional-logic-level-converter-module,flyrobo,8 Channel Bi-Directional Logic Level Converter Module,,67.0,False,,2026-04-05 21:50:08
+https://www.flyrobo.in/multifunction-shield-for-arduino-uno-leonardo,flyrobo,Multifunction Shield For Arduino Uno/Leonardo,,137.0,True,,2026-04-05 21:50:08
+https://www.flyrobo.in/ltc1871-dc-dc-adjustable-power-supply-buck-boost-converter-module,flyrobo,LTC1871 DC-DC Adjustable Power Supply Buck Boost Converter Module,,447.0,True,,2026-04-05 21:50:08
+https://www.flyrobo.in/gsm-antenna-with-cable,flyrobo,3dbi GSM Magnetic Spring Antenna 3 meter,,205.0,True,,2026-04-05 21:50:09
+https://www.flyrobo.in/hdmi-vga-converter-adapter-cable,flyrobo,HDMI to VGA Converter Adapter Cable,,164.0,True,,2026-04-05 21:50:09
+https://www.flyrobo.in/hdmi-vga-converter-cable-with-audio-for-raspberry-pi,flyrobo,HDMI to VGA Converter Cable with Audio For Raspberry Pi,,207.0,True,,2026-04-05 21:50:10
+https://www.flyrobo.in/usb-ttl-stc-series-mcu-auto-programmer,flyrobo,USB to TTL STC Series MCU Auto Programmer,,216.0,False,,2026-04-05 21:50:10
+https://www.flyrobo.in/mcp2515-can-bus-module-with-tja1050-transreceiver,flyrobo,MCP2515 CAN Bus Module with TJA1050 Transreceiver,,98.0,True,,2026-04-05 21:50:13
+https://www.flyrobo.in/raspberry-pi-4-case,flyrobo,Raspberry Pi 4 Case,,113.0,False,,2026-04-05 21:50:14
+https://www.flyrobo.in/futaba-s3003-servo-motor,flyrobo,Futaba S3003 Servo Motor,,287.0,True,,2026-04-05 21:50:15
+https://www.flyrobo.in/servo-mount-holder-bracket-for-sg90-mg90,flyrobo,Servo Mount Holder Bracket for SG90/MG90,,34.0,True,,2026-04-05 21:50:15
+https://www.flyrobo.in/28byj-48-5v-stepper-motor,flyrobo,28BYJ-48 5V Stepper Motor,,90.0,True,,2026-04-05 21:50:16
+https://www.flyrobo.in/raspberry-pi-zero-case,flyrobo,Raspberry Pi Zero Case,,123.0,True,,2026-04-05 21:50:18
+https://www.flyrobo.in/cjmcu-75-lm75-temperature-sensor-high-speed-i2c-development-board,flyrobo,CJMCU-75 LM75 Temperature Sensor High-speed I2C Development Board,,92.0,True,,2026-04-05 21:50:18
+https://www.flyrobo.in/ttp229-16-way-capacitive-touch-sensor-digital-keypad-module,flyrobo,TTP229 16-Way Capacitive Touch Sensor Digital keypad Module,,105.0,True,,2026-04-05 21:50:18
+https://www.flyrobo.in/3w-high-power-led-module-for-arduino,flyrobo,3W High Power LED Module for Arduino-White,,82.0,True,,2026-04-05 21:50:18
+https://www.flyrobo.in/led-traffic-lights-signal-module-digital-signal-output-traffic-light-module,flyrobo,LED Traffic Lights Signal Module /Digital Signal Output Traffic Light Module,,34.0,True,,2026-04-05 21:50:20
+https://www.flyrobo.in/case-holder-for-pir-motion-sensor-detector-module-hc-sr501,flyrobo,Case Holder for PIR Motion Sensor Detector Module HC-SR501,,34.0,True,,2026-04-05 21:50:21
+https://www.flyrobo.in/flex-sensor-2.2-bend-sensor-for-hand-gesture-recognition,flyrobo,Flex Sensor 2.2″ Bend Sensor for Hand Gesture Recognition,,232.0,True,,2026-04-05 21:50:22
+https://www.flyrobo.in/led-dimming-pwm-control-capacitive-touch-dimmer-switch-module,flyrobo,LED Dimming PWM Control Capacitive Touch Dimmer Switch Module,,51.0,True,,2026-04-05 21:50:22
+https://www.flyrobo.in/max30102-pulse-oximeter-heart-rate-sensor-module,flyrobo,MAX30102 Pulse Oximeter Heart Rate Sensor Module,,110.0,True,,2026-04-05 21:50:23
+https://www.flyrobo.in/10k-ohm-ntc-thermistor-resistor,flyrobo,10K Ohm NTC Thermistor Resistor,,9.0,False,,2026-04-05 21:50:25
+https://www.flyrobo.in/ph-electrode-probe-bnc-connector-e201-c,flyrobo,PH Electrode Probe  BNC Connector E201-C,,999.0,True,,2026-04-05 21:50:25
+https://www.flyrobo.in/esp-wroom-32-nodemcu-module,flyrobo,ESP32 38Pin Development Board WiFi + Bluetooth Dual Core Ultra-Low Power Consumption,,374.0,True,,2026-04-05 21:50:25
+https://www.flyrobo.in/am2301-dht21-temperature-and-humidity-sensor,flyrobo,AM2301 DHT21 Temperature And Humidity Sensor,,343.0,False,,2026-04-05 21:50:26
+https://www.flyrobo.in/rfid-reader-em-18-module-with-rs232,flyrobo,RFID Reader EM-18 Module with RS232,,431.0,False,,2026-04-05 21:50:27
+https://www.flyrobo.in/dc-power-module-dc-power-adapter-plate,flyrobo,DC Power Module DC Power Adapter Plate,,32.0,True,,2026-04-05 21:50:27
+https://www.flyrobo.in/hlk-10m05-5v-10w-switch-power-supply-module,flyrobo,HLK-10M05 5V/10W Switch Power Supply Module,,322.0,False,,2026-04-05 21:50:28
+https://www.flyrobo.in/hlk-20m09-9v-20w-switch-power-supply-module,flyrobo,HLK-20M09 9V/20W Switch Power Supply Module,,551.0,True,,2026-04-05 21:50:29
+https://www.flyrobo.in/gy-271-qmc5883l-3-axis-electronic-compass-module-magnetic-field-sensor,flyrobo,GY-271 QMC5883L 3-axis Electronic Compass Module Magnetic Field Sensor,,164.0,False,,2026-04-05 21:50:30
+https://www.flyrobo.in/hlk-2m05-5v-2w-switch-power-supply-module,flyrobo,HLK-2M05 5V/2W Switch Power Supply Module,,247.0,False,,2026-04-05 21:50:33
+https://www.flyrobo.in/hlk-pm01-5v-3w-switch-power-supply-module,flyrobo,HLK-PM01 5V/3W Switch Power Supply Module,,232.0,False,,2026-04-05 21:50:33
+https://www.flyrobo.in/hlk-5m12-12v-5w-switch-power-supply-module,flyrobo,HLK-5M12 12V/5W Switch Power Supply Module,,245.0,False,,2026-04-05 21:50:34
+https://www.flyrobo.in/max7219-dot-matrix-4-1-display-module,flyrobo,MAX7219 Dot Matrix 4 in 1 Display Module - Red,,276.0,True,,2026-04-05 21:50:35
+https://www.flyrobo.in/hlk-10d11005-5v-10w-dc-dc-switch-power-supply-module,flyrobo,HLK-10D11005  5V/10W DC-DC Switch Power Supply Module,,701.0,False,,2026-04-05 21:50:35
+https://www.flyrobo.in/hlk-10d2412-12v-10w-dc-dc-switch-power-supply-module,flyrobo,HLK-10D2412  12V/10W DC-DC Switch Power Supply Module,,611.0,False,,2026-04-05 21:50:35
+https://www.flyrobo.in/robot-wheel-10-x-4-cm-for-motors,flyrobo,Robot Wheel 10 x 4 cm for Motors,,132.0,True,,2026-04-05 21:50:36
+https://www.flyrobo.in/acs712-5a-range-current-sensor-module,flyrobo,ACS712 5A Range Current Sensor Module,,75.0,True,,2026-04-05 21:50:38
+https://www.flyrobo.in/absd-lipo-battery-11.1v-2200mah-3s-30c,flyrobo,ABSD LiPo Battery 11.1V 2200MAH 3S 80C,,1619.0,True,,2026-04-05 21:50:39
+https://www.flyrobo.in/pn532-nfc-rfid-module-v3-kit,flyrobo,PN532 NFC RFID Module V3 Kit,,267.0,True,,2026-04-05 21:50:40
+https://www.flyrobo.in/absd-lipo-battery-14.8v-5200mah-4s-35c,flyrobo,ABSD LiPo Battery 14.8V 5200MAH 4S 35C,,5075.0,False,,2026-04-05 21:50:40
+https://www.flyrobo.in/quadband-l-type-gsm-antenna-4-inch,flyrobo,Quadband L Type GSM Antenna 4 Inch,,55.0,True,,2026-04-05 21:50:41
+https://www.flyrobo.in/esp32-v1.0.0-wifi-bluetooth-development-board,flyrobo,ESP32 V1.0.0 Wifi Bluetooth Development Board,,313.0,True,,2026-04-05 21:50:41
+https://www.flyrobo.in/cp2102-5-pin-usb-ttl-uart-serial-converter-module,flyrobo,CP2102 (5-pin) USB to TTL UART serial converter Module,,151.0,True,,2026-04-05 21:50:42
+https://www.flyrobo.in/mcp3008-ic-module,flyrobo,MCP3008 IC Module,,269.0,False,,2026-04-05 21:50:44
+https://www.flyrobo.in/nano-v3-ethernet-shield,flyrobo,Nano V3 Ethernet Shield,,361.0,True,,2026-04-05 21:50:47
+https://www.flyrobo.in/mega2560-pro-atmega2560-16au-usb-ch340g-development-board,flyrobo,Mega2560 Pro ATMEGA2560-16AU USB CH340G Development Board,,953.0,True,,2026-04-05 21:50:47
+https://www.flyrobo.in/ad620-microvolt-millivolt-voltage-amplifier-module,flyrobo,AD620 Microvolt/Millivolt Voltage Amplifier Module,,235.0,True,,2026-04-05 21:50:47
+https://www.flyrobo.in/lm2577-3a-dc-dc-step-up-led-voltmeter-adjustable-boost-converter-module,flyrobo,LM2577 3A DC-DC Step Up LED Voltmeter Adjustable Boost Converter module,,398.0,True,,2026-04-05 21:50:47
+https://www.flyrobo.in/l298p-motor-driver-shield,flyrobo,L298P Motor Driver Shield,,853.0,True,,2026-04-05 21:50:47
+https://www.flyrobo.in/correlation-photoelectric-infrared-count-slot-sensor-module,flyrobo,Correlation Photoelectric Infrared Count Slot Sensor Module,,72.0,True,,2026-04-05 21:50:48
+https://www.flyrobo.in/bfd-1000-five-channel-infrared-tracking-sensor,flyrobo,TCRT 5000 BFD-1000 Five Channel Infrared Tracking Sensor,,192.0,False,,2026-04-05 21:50:49
+https://www.flyrobo.in/infrared-ir-wireless-remote-control-module-kit-for-arduino,flyrobo,Infrared IR Wireless Remote Control Module Kit for Arduino,,61.0,True,,2026-04-05 21:50:52
+https://www.flyrobo.in/tube-type-inductive-proximity-sensor-detection-switch-npn-dc6-36v-4mm-normally-open-switch-lj12a3-4-z-bx,flyrobo,Tube Type Inductive Proximity Sensor Detection Switch NPN DC6-36V 4mm Normally Open switch LJ12A3-4-Z/BX,,161.0,False,,2026-04-05 21:50:52
+https://www.flyrobo.in/716-magnetic-micro-coreless-motor-plus-55-mm-propeller-for-micro-quadcopters,flyrobo,2 set 716 Magnetic Micro Coreless Motor + 55 MM Propeller for Micro Quadcopters,,339.0,False,,2026-04-05 21:50:52
+https://www.flyrobo.in/jf-0530b-dc-12v-1a-10mm-5n-push-pull-solenoid-electromagnet,flyrobo,JF-0530B DC 12V 300mA 10mm 5N Push Pull Solenoid Electromagnet,,314.0,True,,2026-04-05 21:50:53
+https://www.flyrobo.in/mq-2-flammable-gas-and-smoke-sensor,flyrobo,MQ-2 Flammable Gas and Smoke Sensor,,112.0,True,,2026-04-05 21:50:55
+https://www.flyrobo.in/w5500-tcp-ip-spi-lan-ethernet-interface-spi-lan-ethernet-converter,flyrobo,W5500 TCP/IP SPI to LAN Ethernet Interface SPI to LAN Ethernet Converter,,453.0,False,,2026-04-05 21:50:57
+https://www.flyrobo.in/6-1-cp2102-usb-ttl-rs232-usb-ttl-rs485-mutual-convert-module,flyrobo,6 in 1 CP2102  USB to TTL RS232 USB TTL to RS485 Mutual Convert Module,,186.0,True,,2026-04-05 21:50:57
+https://www.flyrobo.in/3.5-inch-tft-lcd-touch-screen-arduino-uno-shield,flyrobo,3.5 Inch TFT LCD Touch Screen Arduino UNO Shield,,1009.0,False,,2026-04-05 21:50:58
+https://www.flyrobo.in/dc-dc-buck-converter-step-down-power-module-7-32v-0.8-28v-12a-300w,flyrobo,DC-DC Buck Converter Step-down Power Module 7-32V to 0.8-28V 12A 300W,,217.0,True,,2026-04-05 21:50:58
+https://www.flyrobo.in/cn3065-18650-li-ion-mini-solar-charger-module,flyrobo,CN3065 18650 Li-ion Mini Solar Charger Module,,91.0,True,,2026-04-05 21:50:58
+https://www.flyrobo.in/xh-w1219-12v-digital-display-temperature-controller-module-with-ntc-waterproof-temperature-sensor,flyrobo,XH-W1219 12V Digital Display Temperature Controller Module with NTC Waterproof Temperature Sensor,,204.0,True,,2026-04-05 21:50:58
+https://www.flyrobo.in/l293d-motor-driver-board-for-esp8266-wifi-nodemcu-lua-esp12e,flyrobo,L293D Motor Driver Board for ESP8266 WiFi NodeMcu Lua ESP12E,,143.0,True,,2026-04-05 21:51:00
+https://www.flyrobo.in/usb-charging-discharge-resistance-current-detection-load-tester,flyrobo,USB Charging Discharge Resistance Current Detection Load Tester,,70.0,False,,2026-04-05 21:51:01
+https://www.flyrobo.in/ky-005-infrared-ir-transmitter-sensor-module,flyrobo,KY-005 Infrared IR Transmitter Sensor Module,,49.0,True,,2026-04-05 21:51:01
+https://www.flyrobo.in/ky-011-5mm-two-color-led-module,flyrobo,KY-011 5mm Two Color LED Module,,45.0,True,,2026-04-05 21:51:01
+https://www.flyrobo.in/ky-034-7-color-flashing-led-module,flyrobo,KY-034 7 Color Flashing LED Module,,29.0,True,,2026-04-05 21:51:02
+https://www.flyrobo.in/16bit-ws2812b-5050-rgb-led-built-full-color-driving-lights-circular-development-board,flyrobo,16Bit WS2812B 5050 RGB LED Built-in Full Color Driving Lights Circular Development Board,,89.0,True,,2026-04-05 21:51:02
+https://www.flyrobo.in/2000w-220v-scr-voltage-regulator-dimmers-speed-controller-thermostat,flyrobo,2000W 220V SCR Voltage Regulator Dimmers Speed Controller Thermostat,,83.0,False,,2026-04-05 21:51:03
+https://www.flyrobo.in/4000w-220v-scr-voltage-regulator-dimmers-speed-controller-thermostat,flyrobo,4000W 220V SCR Voltage Regulator Dimmers Speed Controller Thermostat,,311.0,False,,2026-04-05 21:51:04
+https://www.flyrobo.in/9bit-ws2812b-5050-rgb-led-built-full-color-driving-lights-circular-development-board,flyrobo,9Bit WS2812B 5050 RGB LED Built-in Full Color Driving Lights Circular Development Board,,69.0,True,,2026-04-05 21:51:05
+https://www.flyrobo.in/castor-wheel-big-metal,flyrobo,Castor Wheel Big - Metal,,42.0,False,,2026-04-05 21:51:06
+https://www.flyrobo.in/usb-rs485-ttl-serial-converter-adapter-ft232-1,flyrobo,USB to RS485 TTL Serial Converter Adapter FT232,,178.0,True,,2026-04-05 21:51:06
+https://www.flyrobo.in/max490-rs422-bidirectional-full-duplex-two-way-ttl-signal-conversion-module,flyrobo,MAX490 RS422 Bidirectional Full Duplex Two-Way TTL Signal Conversion Module,,160.0,True,,2026-04-05 21:51:07
+https://www.flyrobo.in/ht16k33-16x8-led-dot-matrix-drive-control-breakout-module,flyrobo,HT16K33 16X8 LED Dot Matrix Drive Control Breakout Module,,161.0,True,,2026-04-05 21:51:07
+https://www.flyrobo.in/mt8870-dtmf-decoder-module,flyrobo,MT8870 DTMF audio Decoder Module,,98.0,True,,2026-04-05 21:51:08
+https://www.flyrobo.in/cjmcu-29125-isl29125-rgb-color-light-sensor-module,flyrobo,CJMCU-29125 ISL29125 RGB Color Light Sensor Module,,235.0,False,,2026-04-05 21:51:08
+https://www.flyrobo.in/pcf8591-module-analog-digital-digital-analog-converter-module,flyrobo,PCF8591 Module Analog to Digital/Digital to Analog Converter Module,,188.0,True,,2026-04-05 21:51:10
+https://www.flyrobo.in/3.5-inch-touch-screen-lcd-raspberry-pi-display,flyrobo,3.5 Inch Touch Screen LCD Raspberry Pi Display,,1204.0,False,,2026-04-05 21:51:10
+https://www.flyrobo.in/aluminum-heatsink-kit-for-raspberry-pi,flyrobo,Aluminum Heatsink Kit for Raspberry Pi,,18.0,True,,2026-04-05 21:51:11
+https://www.flyrobo.in/sma-female-for-pcb-straight-type-through-hole-connector-with-cap,flyrobo,SMA Female for PCB Straight Type Through Hole Connector With Cap,,21.0,True,,2026-04-05 21:51:12
+https://www.flyrobo.in/5w-12v-solar-panel,flyrobo,5W 5V Solar Panel,,755.0,False,,2026-04-05 21:51:13
+https://www.flyrobo.in/2.4g-antenna-for-receiver-wifi-bluetooth,flyrobo,2.4G Antenna for Receiver/wifi/Bluetooth,,25.0,True,,2026-04-05 21:51:14
+https://www.flyrobo.in/128mm-1-meter-pvc-heat-shrink-sleeve-red-for-lithium-cell-pack,flyrobo,128mm 1-Meter PVC Heat Shrink Sleeve Red for Lithium Cell Pack,,39.0,True,,2026-04-05 21:51:15
+https://www.flyrobo.in/jq6500-mini-mp3-voice-module,flyrobo,JQ6500 Mini MP3 Voice Module,,205.0,True,,2026-04-05 21:51:15
+https://www.flyrobo.in/ltc4150-current-power-sensor-detection-module,flyrobo,LTC4150 Current Power Sensor Detection Module,,431.0,False,,2026-04-05 21:51:17
+https://www.flyrobo.in/micro-usb-tiny-avr-isp-attiny44-programmer,flyrobo,Micro USB Tiny AVR ISP ATtiny44 Programmer,,215.0,False,,2026-04-05 21:51:17
+https://www.flyrobo.in/mini-ir-pyroelectric-infrared-pir-motion-human-sensor,flyrobo,AM312 Mini IR Pyroelectric Infrared PIR Motion Human Sensor,,469.0,True,,2026-04-05 21:51:17
+https://www.flyrobo.in/usb-micro-b-breakout-board,flyrobo,USB Micro-B Breakout Board,,12.0,True,,2026-04-05 21:51:20
+https://www.flyrobo.in/48mm-1-meter-pvc-heat-shrink-sleeve-black-for-lithium-cell-pack-150micron-1,flyrobo,48mm 1-Meter PVC Heat Shrink Sleeve Black for Lithium Cell Pack,,16.0,True,,2026-04-05 21:51:21
+https://www.flyrobo.in/dht22-digital-temperature-and-humidity-sensor-module,flyrobo,DHT22 Digital Temperature and Humidity Sensor Module,,105.0,True,,2026-04-05 21:51:22
+https://www.flyrobo.in/mecanum-wheel-80mm-2pcs-3d-printed,flyrobo,Mecanum Wheel 80mm - omni directional - 2pcs - 3D Printed,,1619.0,False,,2026-04-05 21:51:22
+https://www.flyrobo.in/wanhao-gray-abs-1.75-mm-1-kg-filament-for-3d-printer-premium-quality-filament,flyrobo,WANHAO Gray ABS 1.75 mm 1 Kg Filament For 3D Printer – Premium Quality Filament,,1295.0,False,,2026-04-05 21:51:24
+https://www.flyrobo.in/2mm-1-meter-heat-shrink-sleeve-red,flyrobo,2mm 1-meter Heat Shrink Polyolefin Sleeve Red,,15.0,True,,2026-04-05 21:51:24
+https://www.flyrobo.in/wanhao-green-abs-1.75-mm-1-kg-filament-for-3d-printer-premium-quality-filament,flyrobo,WANHAO Green ABS 1.75 mm 1 Kg Filament For 3D Printer – Premium Quality Filament,,1295.0,False,,2026-04-05 21:51:24
+https://www.flyrobo.in/25bit-ws2812-5050-5x5-digit-rgb-led-built-full-color-driving-lights-development-board,flyrobo,25Bit WS2812 5050 5x5 Digit RGB LED Built-in Full Color Driving Lights Development Board,,135.0,True,,2026-04-05 21:51:25
+https://www.flyrobo.in/1.5mm-1-meter-heat-shrink-sleeve-red,flyrobo,1.5mm 1-meter Heat Shrink Polyolefin Sleeve Red,,15.0,True,,2026-04-05 21:51:27
+https://www.flyrobo.in/20mm-1-meter-heat-shrink-sleeve-red,flyrobo,20mm 1-meter Heat Shrink Polyolefin Sleeve Red,,47.0,True,,2026-04-05 21:51:27
+https://www.flyrobo.in/3mm-1-meter-heat-shrink-sleeve-red,flyrobo,3mm 1-meter Heat Shrink Polyolefin Sleeve Red,,7.0,True,,2026-04-05 21:51:27
+https://www.flyrobo.in/5mm-1-meter-heat-shrink-sleeve-red,flyrobo,5mm 1-meter Heat Shrink Polyolefin Sleeve Red,,19.0,True,,2026-04-05 21:51:27
+https://www.flyrobo.in/10mm-1-meter-heat-shrink-sleeve-red,flyrobo,10mm 1-meter Heat Shrink Polyolefin Sleeve Red,,41.0,True,,2026-04-05 21:51:29
+https://www.flyrobo.in/gy-53-vl53l0x-laser-tof-flight-time-ranging-sensor-module,flyrobo,GY-53 VL53L0X Laser ToF Flight Time Ranging Sensor Module,,558.0,True,,2026-04-05 21:51:29
+https://www.flyrobo.in/apds-9960-rgb-gesture-sensor-detection-i2c-breakout-module-for-arduino,flyrobo,GY-9960-3.3 APDS-9960 RGB Gesture Sensor Detection I2C Breakout Module for Arduino,,196.0,False,,2026-04-05 21:51:30
+https://www.flyrobo.in/cjmcu-219-ina219-i2c-interface-no-drift-bi-directional-current-supply-monitoring-module,flyrobo,CJMCU-219 INA219 I2C Interface No Drift Bi-directional Current Supply Monitoring Module,,136.0,True,,2026-04-05 21:51:31
+https://www.flyrobo.in/screw-shield-expansion-board-r3-xd-216,flyrobo,Screw shield Expansion Board R3 - XD-216,,349.0,False,,2026-04-05 21:51:31
+https://www.flyrobo.in/tb6560-stepper-motor-driver-controller,flyrobo,TB6560 Stepper Motor Driver Controller,,435.0,True,,2026-04-05 21:51:31
+https://www.flyrobo.in/li-ion-18650-3.7v-2000mah-battery-1c,flyrobo,HLM Li-Ion 18650 3.7V 2000MAH Battery-1C,,107.0,True,,2026-04-05 21:51:34
+https://www.flyrobo.in/20-x-30-cm-double-sided-universal-pcb-prototype-board,flyrobo,20 x 30 cm Double-Sided Universal  PCB Prototype Board,,428.0,False,,2026-04-05 21:51:37
+https://www.flyrobo.in/12-x-18-cm-double-side-universal-pcb-prototype-board,flyrobo,12 x 18 cm Double-Side Universal PCB Prototype Board,,215.0,False,,2026-04-05 21:51:37
+https://www.flyrobo.in/2-x-8-cm-double-sided-universal-pcb-prototype-board,flyrobo,2 x 8 cm Double-Sided Universal PCB Prototype Board,,23.0,True,,2026-04-05 21:51:37
+https://www.flyrobo.in/9-x-15-cm-double-side-universal-pcb-prototype-board,flyrobo,9 x 15 cm Double-Side Universal PCB Prototype Board,,90.0,False,,2026-04-05 21:51:37
+https://www.flyrobo.in/sma-right-angled-connector,flyrobo,SMA Right Angled Connector,,68.0,True,,2026-04-05 21:51:38
+https://www.flyrobo.in/hz-1050-rfid-module-with-id-button-card,flyrobo,HZ-1050 RFID Module with ID Button Card,,316.0,False,,2026-04-05 21:51:39
+https://www.flyrobo.in/50-piece-2.2k-ohm-resistor,flyrobo,50 piece of 2.2k ohm Resistor,,27.0,True,,2026-04-05 21:51:41
+https://www.flyrobo.in/gyml8511-analog-output-uv-light-sensor-module,flyrobo,GYML8511 Analog Output UV Light Sensor Module,,411.0,False,,2026-04-05 21:51:41
+https://www.flyrobo.in/50-piece-330k-ohm-resistor,flyrobo,50 piece of 330K ohm Resistor,,27.0,True,,2026-04-05 21:51:41
+https://www.flyrobo.in/50-piece-56k-ohm-resistor,flyrobo,50 piece of 56K ohm Resistor,,27.0,True,,2026-04-05 21:51:42
+https://www.flyrobo.in/piezo-vibration-sensor-large-with-mass,flyrobo,Piezo Vibration Sensor - Large with Mass,,257.0,True,,2026-04-05 21:51:45
+https://www.flyrobo.in/50-piece-330-ohm-resistor,flyrobo,50 piece of 330 ohm Resistor,,27.0,True,,2026-04-05 21:51:45
+https://www.flyrobo.in/e-bile-power-lock-ignition-key-switch,flyrobo,E-Bike Power Lock Ignition Key Switch,,377.0,False,,2026-04-05 21:51:46
+https://www.flyrobo.in/1.5v-aaa-ultra-heavy-duty-battery,flyrobo,1.5V AAA Ultra Heavy Duty Battery,,11.0,False,,2026-04-05 21:51:47
+https://www.flyrobo.in/combo-1000kv-brushless-motor-plus-30a-simonk-esc-plus-1045-propeller-pair-set-4,flyrobo,Combo of 1000KV Brushless Motor + 30A SimonK ESC + 1045 Propeller Pair (Set of 4) - FlyRobo,,3603.0,True,,2026-04-05 21:51:48
+https://www.flyrobo.in/200rpm-dc-3-12v-l-shape-bo-gear-motor-one-side-shaft-for-arduino-smart-car,flyrobo,200RPM DC 3-6V  L-Shape BO Gear Motor One side Shaft For Arduino Smart Car,,54.0,True,,2026-04-05 21:51:50
+https://www.flyrobo.in/t91-12v-30a-cube-relay,flyrobo,T91 12V 30A Cube Relay - High Current Isolate Relay,,54.0,True,,2026-04-05 21:51:51
+https://www.flyrobo.in/xh-w3001-220v-ac-digital-temperature-controller-microcomputer-thermostat-switch-module,flyrobo,XH-W3001 220V AC Digital Temperature Controller Microcomputer Thermostat Switch Module,,154.0,True,,2026-04-05 21:51:51
+https://www.flyrobo.in/12v-7a-sugar-cube-relay,flyrobo,12V 7A Sugar Cube Relay,,11.56,True,,2026-04-05 21:51:53
+https://www.flyrobo.in/150w-dc-dc-10-32v-12-35v-6a-step-up-boost-converter-adjustable-module,flyrobo,150W DC-DC 10-32V to 12-35V 6A Step-Up Boost Converter Adjustable Module,,216.0,True,,2026-04-05 21:51:53
+https://www.flyrobo.in/3a-250v-ac-spst-on-off-rocker-switch,flyrobo,6A 250V AC SPST ON/OFF Rocker Switch,,10.0,True,,2026-04-05 21:51:54
+https://www.flyrobo.in/24m-8ch-usb-logic-analyzer-debug-tool,flyrobo,24M 8CH USB Logic Analyzer Debug Tool,,497.0,True,,2026-04-05 21:51:54
+https://www.flyrobo.in/1.3-inch-i2c-iic-white-oled-display-module-4pin,flyrobo,1.3 Inch I2C/IIC WHITE OLED Display Module 4pin - Flyrobo.in,,407.0,False,,2026-04-05 21:51:54
+https://www.flyrobo.in/hx711-24-bit-precision-dual-channel-module-for-load-cell,flyrobo,HX711 24 Bit Precision Dual-Channel Module for load cell,,58.0,True,,2026-04-05 21:51:55
+https://www.flyrobo.in/10-pcs-double-ended-crocodile-alligator-clips-roach-clips-electrical-diy-test-leads,flyrobo,10 pcs of Double-ended Crocodile/Alligator Clips Roach Clips Electrical DIY Test Leads,,75.0,True,,2026-04-05 21:51:55
+https://www.flyrobo.in/usb-plug-and-play-microphone-for-raspberry-pi,flyrobo,USB Plug and Play Microphone for Raspberry Pi,,193.0,False,,2026-04-05 21:51:57
+https://www.flyrobo.in/t8-anti-backlash-spring-loaded-nut-for-8mm-threaded-rod-lead-screw,flyrobo,T8 Anti-backlash Spring Loaded Nut For 8mm Threaded Rod Lead Screw (2*8mm),,118.0,True,,2026-04-05 21:52:02
+https://www.flyrobo.in/20-tooth-5mm-bore-gt2-timing-idler-aluminum-pulley-for-6mm-belt,flyrobo,20 Tooth 5mm Bore GT2 Timing Idler Aluminum Pulley For 6mm Belt,,68.0,True,,2026-04-05 21:52:02
+https://www.flyrobo.in/20-tooth-8mm-bore-gt2-timing-idler-aluminum-pulley-for-6mm-belt,flyrobo,20 Tooth 7mm Bore GT2 Timing Idler Aluminum Pulley For 6mm Belt,,55.0,True,,2026-04-05 21:52:02
+https://www.flyrobo.in/12v-7530-dc-blower-cooling-fan,flyrobo,12V 7530 DC Blower Cooling Fan,,141.0,False,,2026-04-05 21:52:03
+https://www.flyrobo.in/cjmcu-tca9548a-i2c-8-multi-channel-expansion-board,flyrobo,CJMCU TCA9548A I2C 8 multi-channel expansion board,,94.0,True,,2026-04-05 21:52:04
+https://www.flyrobo.in/gm320-infrared-ir-temperature-gun,flyrobo,GM320 Infrared (IR) Temperature Gun,,970.0,False,,2026-04-05 21:52:04
+https://www.flyrobo.in/5v-pro-micro-16m-mini-leonardo-microcontroller-development-board,flyrobo,5V Pro Micro 16M Mini Leonardo Microcontroller Development Board,,473.0,True,,2026-04-05 21:52:05
+https://www.flyrobo.in/sim28ml-gps-receiver-module-with-gps-antenna,flyrobo,SIM28ML GPS Receiver Module with GPS antenna,,1295.0,False,,2026-04-05 21:52:07
+https://www.flyrobo.in/esp8285-esp-1-serial-wireless-wifi-transmission-module-compatible-with-esp8266,flyrobo,ESP8285 ESP-1 Serial Wireless WiFi Transmission Module Compatible With ESP8266,,215.0,False,,2026-04-05 21:52:08
+https://www.flyrobo.in/40-pin-project-board-for-atmel-microcontroller,flyrobo,40 Pin Project PIC Development Board,,278.0,True,,2026-04-05 21:52:08
+https://www.flyrobo.in/24v-power-charger-for-e-bike,flyrobo,24V Power Charger for E-bike,,647.0,False,,2026-04-05 21:52:10
+https://www.flyrobo.in/3.5-5.5v-passive-buzzer-module-for-arduino,flyrobo,3.5-5.5V Passive Buzzer Module For Arduino,,49.0,True,,2026-04-05 21:52:10
+https://www.flyrobo.in/gy-9833-ad9833-programmable-dds-signal-waveform-generator,flyrobo,GY-9833 AD9833 Programmable DDS Signal Waveform Generator,,648.0,False,,2026-04-05 21:52:10
+https://www.flyrobo.in/ardupilot-apm-2.8-flight-controller-kit,flyrobo,Ardupilot APM 2.8 Flight Controller kit  - FlyRobo,,8963.0,True,,2026-04-05 21:52:11
+https://www.flyrobo.in/my1016-250w-24v-dc-motor-with-gear-for-e-bike-electric-bicycle-original-unite,flyrobo,MY1016 250W 24V DC Motor with gear for E-Bike | Electric bicycle - Original Unite,,3517.0,False,,2026-04-05 21:52:11
+https://www.flyrobo.in/iot-combo-for-home-automation,flyrobo,IOT Combo for Home Automation,,420.0,True,,2026-04-05 21:52:12
+https://www.flyrobo.in/lm8uu-8mm-linear-motion-bearing-for-3d-printer,flyrobo,LM8UU 8mm Linear Motion Bearing for 3D Printer,,53.0,True,,2026-04-05 21:52:15
+https://www.flyrobo.in/optical-endstop-photoelectric-light-control-optical-limit-switch-for-3d-printer,flyrobo,Optical Endstop Photoelectric Light Control Optical Limit Switch for 3D Printer,,85.0,True,,2026-04-05 21:52:16
+https://www.flyrobo.in/fingertip-pulse-oximeter-black,flyrobo,Fingertip Pulse Oximeter Black,,589.0,True,,2026-04-05 21:52:16
+https://www.flyrobo.in/0.5mm-extruder-brass-nozzle-print-head-for-1.75mm-abs-pla-3d-printer,flyrobo,0.5mm Extruder Brass Nozzle Print Head for 1.75mm ABS PLA - 3D Printer,,18.0,True,,2026-04-05 21:52:17
+https://www.flyrobo.in/0.4mm-extruder-brass-nozzle-print-head-for-1.75mm-abs-pla-3d-printer,flyrobo,0.4mm Extruder Brass Nozzle Print Head for 1.75mm ABS PLA - 3D Printer,,21.0,True,,2026-04-05 21:52:17
+https://www.flyrobo.in/150mm-6inch-lcd-digital-electronic-carbon-fiber-vernier-caliper-gauge-micrometer,flyrobo,150mm/6Inch LCD Digital Electronic Carbon Fiber Vernier Caliper Gauge Micrometer,,430.0,False,,2026-04-05 21:52:18
+https://www.flyrobo.in/3.17mm-rc-aluminum-bullet-propeller-adapter-holder-for-brushless-motor,flyrobo,3.17mm  RC Aluminum Bullet Propeller Adapter Holder for Brushless Motor (Collet Type),,75.0,True,,2026-04-05 21:52:18
+https://www.flyrobo.in/li-ion-14500-3.7v-500mah-battery-1c,flyrobo,Li-Ion 14500 3.2V 500MAH Battery-1C,,118.0,False,,2026-04-05 21:52:20
+https://www.flyrobo.in/8520-magnetic-micro-coreless-motor-1,flyrobo,8520 Magnetic Micro Coreless Motor (2CW + 2CCW),,480.0,True,,2026-04-05 21:52:22
+https://www.flyrobo.in/26650-3.2v-3200mah-lifepo4-battery-1c,flyrobo,26650 3.2V 3200MAH LiFePO4 Battery-1C,,323.0,False,,2026-04-05 21:52:22
+https://www.flyrobo.in/26650-3.2v-3200mah-lifepo4-battery-3c,flyrobo,26650 3.2V 3200MAH LiFePO4 Battery-3C,,372.0,False,,2026-04-05 21:52:22
+https://www.flyrobo.in/200-t-i-curved-tip-constant-temperature-welding-station,flyrobo,200-T-I Curved Tip Constant Temperature Welding Station,,75.0,False,,2026-04-05 21:52:26
+https://www.flyrobo.in/rfid-door-lock-project-kit-arduino-project,flyrobo,RFID Door Lock Project Kit - Arduino Project,,971.0,True,,2026-04-05 21:52:26
+https://www.flyrobo.in/2mm-1-meter-heat-shrink-sleeve-transparent,flyrobo,2mm 1-meter Heat Shrink Sleeve Polyolefin Transparent,,10.0,True,,2026-04-05 21:52:29
+https://www.flyrobo.in/cr10-nozzle-extruder-heating-printing-head-kit-for-3d-printer,flyrobo,CR10 Nozzle Extruder Heating Printing Head Kit for 3D Printer,,451.0,True,,2026-04-05 21:52:30
+https://www.flyrobo.in/200-t-i-tip-constant-temperature-welding-station,flyrobo,200-T-I Tip Constant Temperature Welding Station,,75.0,False,,2026-04-05 21:52:30
+https://www.flyrobo.in/eye-blink-sensor-project-kit,flyrobo,Eye Blink Sensor Project Kit,,863.0,True,,2026-04-05 21:52:30
+https://www.flyrobo.in/gy-max30100-pulse-oximeter-heart-rate-sensor-development-board,flyrobo,GY-MAX30102 Pulse Oximeter Heart Rate Sensor Development Board,,119.0,True,,2026-04-05 21:52:30
+https://www.flyrobo.in/dc-barrel-jack-connector-male,flyrobo,DC Barrel Jack Connector Male,,10.0,True,,2026-04-05 21:52:31
+https://www.flyrobo.in/arduino-uno-with-lcd-and-keypad,flyrobo,Arduino Uno with LCD and Keypad,,663.0,True,,2026-04-05 21:52:32
+https://www.flyrobo.in/50kg-half-bridge-experiments-body-scale-load-cell-sensor,flyrobo,50kg Half-bridge Experiments Body Scale Load Cell Sensor,,43.0,False,,2026-04-05 21:52:35
+https://www.flyrobo.in/1.8-12v-2a-dc-motor-pwm-speed-regulator,flyrobo,1.8-12V 2A DC Motor PWM Speed Regulator,,84.0,True,,2026-04-05 21:52:35
+https://www.flyrobo.in/12-40v-10a-dc-motor-pwm-speed-controller-board-module,flyrobo,12-40V 10A DC Motor PWM Speed Controller Board Module,,243.0,True,,2026-04-05 21:52:35
+https://www.flyrobo.in/2-axis-brushless-drone-camera-gimbal-with-controller,flyrobo,2-Axis Brushless Drone Camera Gimbal with Controller,,4992.0,True,,2026-04-05 21:52:36
+https://www.flyrobo.in/3s-5a-bms-lithium-battery-protection-board,flyrobo,3S 5A 12.6V BMS Lithium Battery Protection Board,,129.0,True,,2026-04-05 21:52:36
+https://www.flyrobo.in/xt90-male-female-connector-pair,flyrobo,XT90 Male Female Connector Pair,,64.0,True,,2026-04-05 21:52:37
+https://www.flyrobo.in/5030-carbon-fiber-propeller-cw-ccw-for-rc-quadcopter,flyrobo,5030 Carbon Fiber Propeller CW CCW for RC Quadcopter,,318.0,False,,2026-04-05 21:52:39
+https://www.flyrobo.in/sandisk-64gb-cruzer-blade-usb-2.0-pen-drive,flyrobo,SanDisk 64GB Cruzer Blade USB 2.0 Pen Drive,,547.0,False,,2026-04-05 21:52:39
+https://www.flyrobo.in/m5-propeller-nut-cap-cw-ccw-for-emax-2204-brushless-dc-motor,flyrobo,M5 Propeller Nut Cap CW CCW for Emax 2204 Brushless DC Motor,,73.0,True,,2026-04-05 21:52:39
+https://www.flyrobo.in/mt60-3.5mm-3-pole-motor-esc-bullet-connector-plug-set,flyrobo,MT60 3.5mm 3 pole Motor/ESC Bullet Connector Plug Set,,104.0,True,,2026-04-05 21:52:40
+https://www.flyrobo.in/high-elastic-rubber-anti-vibration-damping-ball-blue,flyrobo,High Elastic Rubber Anti Vibration Damping Ball - Blue,,25.0,True,,2026-04-05 21:52:42
+https://www.flyrobo.in/m3x12mm-pan-philips-head-screw-10pcs,flyrobo,M3x12mm Pan Philips Head Screw,,2.0,True,,2026-04-05 21:52:42
+https://www.flyrobo.in/m3x20mm-pan-philips-head-screw-10pcs,flyrobo,M3x20mm Pan Philips Head Screw,,2.0,True,,2026-04-05 21:52:42
+https://www.flyrobo.in/noel-25w-230v-soldering-iron-platinum,flyrobo,25W 230V Soldering Iron - Super,,204.0,True,,2026-04-05 21:52:44
+https://www.flyrobo.in/m3-ss-hex-nut-10pcs,flyrobo,M3 SS Hex Nut,,1.5,True,,2026-04-05 21:52:44
+https://www.flyrobo.in/m3-ss-plain-washer-10pcs,flyrobo,M3 SS Plain Washer,,1.0,True,,2026-04-05 21:52:45
+https://www.flyrobo.in/tda7297-12v-dual-channel-stereo-noiseless-audio-power-amplifier-module,flyrobo,TDA7297 12V Dual Channel Stereo Noiseless Audio Power Amplifier Module,,262.0,True,,2026-04-05 21:52:45
+https://www.flyrobo.in/60w-soldering-iron,flyrobo,60W Soldering Iron - High Quality Solder,,215.0,True,,2026-04-05 21:52:48
+https://www.flyrobo.in/noel-metal-desoldering-pump,flyrobo,Noel Metal Desoldering Pump,,71.0,False,,2026-04-05 21:52:48
+https://www.flyrobo.in/noel-desoldering-pump-transparent,flyrobo,Noel Desoldering Pump – Transparent,,81.0,False,,2026-04-05 21:52:49
+https://www.flyrobo.in/noel-1-meter-desoldering-wick,flyrobo,Noel 1 Meter Desoldering Wick,,37.0,False,,2026-04-05 21:52:49
+https://www.flyrobo.in/noel-8w-solder-iron-bit,flyrobo,8W Solder Iron Bit,,15.0,True,,2026-04-05 21:52:50
+https://www.flyrobo.in/noel-super-deluxe-soldering-iron-stand,flyrobo,Noel Super Deluxe Soldering Iron Stand,,100.0,False,,2026-04-05 21:52:51
+https://www.flyrobo.in/g1-4inch-0.8mpa-stainless-steel-pressure-transducer-sensor,flyrobo,G1/4inch 0.8MPa Stainless Steel Pressure Transducer Sensor,,1245.0,False,,2026-04-05 21:52:52
+https://www.flyrobo.in/noel-25w-solder-iron-bit-g-series,flyrobo,25W Solder Iron Bit,,31.0,True,,2026-04-05 21:52:53
+https://www.flyrobo.in/noel-60w-solder-iron-bit,flyrobo,60W Solder Iron Bit,,59.0,True,,2026-04-05 21:52:53
+https://www.flyrobo.in/gy-26-digital-electronic-compass-sensor-module,flyrobo,GY-26 Digital Electronic Compass Sensor Module,,1233.0,True,,2026-04-05 21:52:55
+https://www.flyrobo.in/g1-4inch-1mpa-stainless-steel-pressure-transducer-sensor,flyrobo,G1/4inch 1MPa Stainless Steel Pressure Transducer Sensor,,1348.0,False,,2026-04-05 21:52:55
+https://www.flyrobo.in/g1-4inch-10mpa-stainless-steel-pressure-transducer-sensor,flyrobo,G1/4inch 10MPa Stainless Steel Pressure Transducer Sensor,,1774.0,False,,2026-04-05 21:52:56
+https://www.flyrobo.in/500mm-trapezoidal-lead-screw-8mm-thread-2mm-pitch-lead-screw-with-copper-nut,flyrobo,500mm Trapezoidal Lead Screw 8mm Thread 2mm Pitch Lead Screw with Copper Nut,,345.0,False,,2026-04-05 21:52:57
+https://www.flyrobo.in/enc28j60-network-adapter-module-for-raspberry-pi-zero,flyrobo,ENC28J60 Network Adapter Module for Raspberry Pi Zero,,844.0,True,,2026-04-05 21:52:57
+https://www.flyrobo.in/gy-906-mlx90614-dci-long-distance-infrared-temperature-sensor-module,flyrobo,GY-906 MLX90614-DCI Long Distance Infrared Temperature Sensor Module,,2263.0,True,,2026-04-05 21:52:59
+https://www.flyrobo.in/300mm-trapezoidal-lead-screw-8mm-thread-2mm-pitch-lead-screw-with-copper-nut,flyrobo,300mm Trapezoidal Lead Screw 8mm Thread 2mm Pitch Lead Screw with Copper Nut,,241.0,False,,2026-04-05 21:52:59
+https://www.flyrobo.in/ez9908-ph-tds-ec-temp-4-1-pen-type-tester,flyrobo,EZ9908 pH/TDS/EC/TEMP 4-in-1 Pen-type Tester,,1864.0,False,,2026-04-05 21:52:59
+https://www.flyrobo.in/picoboard-scratch-programming-board,flyrobo,PicoBoard Scratch Programming Board,,1789.0,True,,2026-04-05 21:52:59
+https://www.flyrobo.in/orp-2069-digital-pen-type-orp-meter-redox-tester-with-backlight,flyrobo,ORP-2069 Digital Pen Type ORP Meter Redox Tester with Backlight,,2699.0,False,,2026-04-05 21:53:01
+https://www.flyrobo.in/ez9909-ph-tds-ec-salinity-temperature-5-1-pen-type-digital-water-quality-tester,flyrobo,EZ9909 pH/TDS/EC/Salinity/Temperature 5-in-1 Pen-type Digital Water Quality Tester,,4319.0,False,,2026-04-05 21:53:02
+https://www.flyrobo.in/digital-lcd-display-water-flow-sensor-meter-temperature-time-record-with-g1-2-flow-sensor,flyrobo,Digital LCD Display Water Flow Sensor Meter Temperature Time Record with G1/2 Flow Sensor,,4103.0,False,,2026-04-05 21:53:02
+https://www.flyrobo.in/brushless-motor-controller-dc-12v-36v-500w-hall-motor-pwm-driver-board,flyrobo,Brushless Motor Controller DC 12V-36V 500W Hall Motor PWM Driver Board,,1339.0,False,,2026-04-05 21:53:04
+https://www.flyrobo.in/mk-328-tr-lcr-esr-inductance-capacitance-resistance-tester,flyrobo,MK-328 TR LCR ESR Inductance Capacitance Resistance Tester,,2537.0,False,,2026-04-05 21:53:04
+https://www.flyrobo.in/raspberry-pi-4b-3bplus-zero-wh-infrared-focus-adjustable-night-vision-camera-with-bracket-and-screwdriver,flyrobo,Raspberry pi 4B/3B+/Zero/WH Infrared Focus Adjustable Night Vision Camera with Bracket and Screwdriver,,1561.0,True,,2026-04-05 21:53:04
+https://www.flyrobo.in/3d-printer-nozzle-extrusion-head-2-1-out-1.75mm-for-cr10s-pro-ender,flyrobo,3D Printer Nozzle Extrusion Head 2 in 1 out 1.75MM for CR10S PRO Ender,,2915.0,False,,2026-04-05 21:53:05
+https://www.flyrobo.in/gy-39-max44009-light-intensity-bme280-temperature-and-humidity-sensor-module,flyrobo,GY-39 MAX44009 Light Intensity BME280 Temperature and Humidity Sensor Module,,1343.0,True,,2026-04-05 21:53:05
+https://www.flyrobo.in/r385-dc-6-12v-mini-aquarium-water-pump-1,flyrobo,R385 DC 6-12V Mini Aquarium Water Pump,,203.0,True,,2026-04-05 21:53:07
+https://www.flyrobo.in/6mm-colorful-silicone-rubber-heat-shrink-tube-assorted-kit-21-pcs,flyrobo,6mm Colorful Silicone Polyolefin Rubber Heat Shrink Tube Assorted Kit - 21 pcs,,208.0,False,,2026-04-05 21:53:08
+https://www.flyrobo.in/solar-power-mini-toy-car,flyrobo,Solar Power Mini Toy Car,,154.0,False,,2026-04-05 21:53:08
+https://www.flyrobo.in/brass-g1-4-inch-water-flow-sensor-hz41wc,flyrobo,Brass G1/4 inch Water Flow Sensor - HZ41WC,,377.0,False,,2026-04-05 21:53:09
+https://www.flyrobo.in/mateksys-pdb-xt60-with-bec-5v-and-12v-board,flyrobo,Mateksys PDB-XT60 with BEC 5V and 12V Board,,373.0,True,,2026-04-05 21:53:10
+https://www.flyrobo.in/pixhawk-rgb-usb-module-external-led-indicator-for-pix-flight-controller,flyrobo,Pixhawk RGB USB Module External LED Indicator for PIX Flight Controller,,655.0,True,,2026-04-05 21:53:12
+https://www.flyrobo.in/pdb-xt60-with-bec-5v-and-12v-for-geprc-leopard-lx5-220,flyrobo,PDB-XT60 With BEC 5V & 12V for GEPRC Leopard LX5 220,,299.0,False,,2026-04-05 21:53:12
+https://www.flyrobo.in/cc3d-flight-controller-8-pin-receiver-cable,flyrobo,CC3D Flight Controller 8 Pin Receiver Cable,,161.0,False,,2026-04-05 21:53:12
+https://www.flyrobo.in/df13-4-pin-flight-controller-cable,flyrobo,DF13 4 Pin Flight Controller Cable,,50.0,False,,2026-04-05 21:53:15
+https://www.flyrobo.in/mini-5v-buzzer-with-jst-female-plug-for-kk2-kk2.1-flight-controller,flyrobo,Mini 5V Buzzer with JST Female Plug for KK2 KK2.1 Flight Controller,,107.0,True,,2026-04-05 21:53:15
+https://www.flyrobo.in/m3-shock-absorber-screws-4pcs,flyrobo,M3 Shock Absorber Screws - 4pcs,,170.0,False,,2026-04-05 21:53:15
+https://www.flyrobo.in/w25q32-32m-bit-flash-storage-module,flyrobo,W25Q32 32M-Bit Flash Storage Module,,43.0,True,,2026-04-05 21:53:16
+https://www.flyrobo.in/4.5-35v-5a-pwm-adjustable-dc-motor-speed-regulator-control-governor-switch-module,flyrobo,4.5-35V 5A PWM Adjustable DC Motor Speed Regulator Control Governor Switch module,,75.0,True,,2026-04-05 21:53:16
+https://www.flyrobo.in/m2-anti-vibration-rubber-damper-balls-4pcs,flyrobo,M2 Anti Vibration Rubber Damper Ball,,15.0,True,,2026-04-05 21:53:17
+https://www.flyrobo.in/m3-anti-vibration-rubber-damper-balls-for-fpv-f4and-f7-flight-controller-4pcs,flyrobo,"M3 Anti Vibration Rubber Damper Balls for FPV F4, F7 Flight Controller",,14.0,True,,2026-04-05 21:53:18
+https://www.flyrobo.in/gt2-110mm-long-closed-loop-6mm-rubber-timing-belt-for-3d-printer,flyrobo,GT2 110mm Long Closed Loop 6mm Rubber Timing Belt for 3D Printer,,45.0,True,,2026-04-05 21:53:19
+https://www.flyrobo.in/w25q64-64m-bit-flash-storage-module,flyrobo,W25Q64 64M-Bit Flash Storage Module,,116.0,True,,2026-04-05 21:53:19
+https://www.flyrobo.in/0.28inch-0-100v-three-wire-dc-mini-led-display-voltmeter-red,flyrobo,0.28inch 0-100V Three Wire DC Mini LED Display Voltmeter - Red,,67.0,True,,2026-04-05 21:53:20
+https://www.flyrobo.in/syd1230-12mm-650nm-5mw-red-point-laser-module,flyrobo,SYD1230 12mm 650nm 5mW Red Point Laser Module,,153.0,True,,2026-04-05 21:53:21
+https://www.flyrobo.in/tmc2208-stepper-motor-driver-module-for-3d-printer,flyrobo,TMC2208 Stepper Motor Driver Module for 3D Printer,,258.0,True,,2026-04-05 21:53:22
+https://www.flyrobo.in/esp8266-adapter-plate-serial-wireless-wifi-module,flyrobo,ESP8266 Adapter Plate Serial Wireless WIFI Module,,25.0,True,,2026-04-05 21:53:23
+https://www.flyrobo.in/temt6000-ambient-light-sensor,flyrobo,TEMT6000 Ambient light sensor,,98.0,True,,2026-04-05 21:53:23
+https://www.flyrobo.in/esp8266-5v-wifi-1-channel-relay-module-iot-smart-home-remote-control-switch,flyrobo,ESP8266 5V Wifi 1 Channel Relay Module IOT Smart Home Remote Control Switch,,342.0,False,,2026-04-05 21:53:23
+https://www.flyrobo.in/trrs-3.5mm-microphone-interface-module,flyrobo,TRRS 3.5mm Microphone Interface Module,,19.0,True,,2026-04-05 21:53:23
+https://www.flyrobo.in/tmc2209-stepper-motor-driver,flyrobo,TMC2209 Stepper Motor Driver,,593.0,False,,2026-04-05 21:53:26
+https://www.flyrobo.in/chq1838-infrared-receiving-head-with-iron-shell,flyrobo,CHQ1838 Infrared Receiving Head with Iron Shell,,6.74,True,,2026-04-05 21:53:27
+https://www.flyrobo.in/usb-adapter-board-micro-usb-usb-female-connector-male-female-header-4p-2.54mm,flyrobo,USB Adapter Board Micro USB to USB Female Connector Male to Female Header 4P 2.54mm,,37.0,True,,2026-04-05 21:53:28
+https://www.flyrobo.in/usb-type-4-pin-male-connector-socket,flyrobo,USB Type A 4-Pin Male Connector Socket,,9.0,True,,2026-04-05 21:53:28
+https://www.flyrobo.in/sk10-10mm-linear-bearing-rail-support-xyz-shaft-table-cnc-router-sh10a,flyrobo,SK10 10mm Linear Bearing Rail Support XYZ Shaft Table CNC Router SH10A,,96.0,True,,2026-04-05 21:53:29
+https://www.flyrobo.in/sk13-13mm-linear-bearing-rail-support-xyz-shaft-table-cnc-router-sh13a,flyrobo,SK13 13mm Linear Bearing Rail Support XYZ Shaft Table CNC Router SH13A,,84.58,True,,2026-04-05 21:53:29
+https://www.flyrobo.in/3-pin-5.08mm-pitch-plug-screw-terminal-block-connector-blue,flyrobo,3 Pin 5.08mm Pitch Plug-in Screw Terminal Block Connector - Blue,,6.07,True,,2026-04-05 21:53:31
+https://www.flyrobo.in/lmk6uu-6mm-square-flange-linear-motion-bearing,flyrobo,LMK6UU 6mm Square Flange Linear Motion Bearing,,93.0,True,,2026-04-05 21:53:33
+https://www.flyrobo.in/220v-12v-3a-ac-dc-step-down-switching-power-supply-module,flyrobo,220V to 12V 3A AC-DC Step Down Switching Power Supply Module,,462.0,True,,2026-04-05 21:53:33
+https://www.flyrobo.in/ac-dc-24v-150ma-isolated-step-down-power-supply-module,flyrobo,AC-DC 24V 150mA Isolated Step Down Power Supply Module,,187.0,True,,2026-04-05 21:53:33
+https://www.flyrobo.in/lmk12uu-12mm-square-flange-linear-motion-bearing,flyrobo,LMK12UU 12mm Square Flange Linear Motion Bearing,,156.0,True,,2026-04-05 21:53:34
+https://www.flyrobo.in/5mm-x-5mm-aluminum-flexible-shaft-coupling,flyrobo,5mm X 5mm Aluminum Flexible Shaft Coupling,,83.0,True,,2026-04-05 21:53:36
+https://www.flyrobo.in/6mm-x-6mm-aluminum-flexible-shaft-coupling,flyrobo,6mm X 6mm Aluminum Flexible Shaft Coupling,,80.0,True,,2026-04-05 21:53:36
+https://www.flyrobo.in/8mm-x-10mm-aluminum-flexible-shaft-coupling,flyrobo,8mm X 10mm Aluminum Flexible Shaft Coupling,,76.0,True,,2026-04-05 21:53:37
+https://www.flyrobo.in/10mm-x-6mm-aluminum-flexible-shaft-coupling,flyrobo,10mm X 6mm Aluminum Flexible Shaft Coupling,,161.0,True,,2026-04-05 21:53:38
+https://www.flyrobo.in/6.35mm-x-8mm-aluminum-flexible-shaft-coupling,flyrobo,6.35mm X 8mm Aluminum Flexible Shaft Coupling,,73.0,False,,2026-04-05 21:53:39
+https://www.flyrobo.in/shf16-16mm-horizontal-linear-rail-shaft-bracket-for-3d-printers,flyrobo,SHF16 16mm Horizontal Linear Rail Shaft Bracket for 3D Printers,,164.0,True,,2026-04-05 21:53:39
+https://www.flyrobo.in/3mm-x-8mm-aluminum-flexible-shaft-coupling,flyrobo,3mm X 8mm Aluminum Flexible Shaft Coupling,,91.0,True,,2026-04-05 21:53:39
+https://www.flyrobo.in/shf12-12mm-horizontal-linear-rail-shaft-bracket-for-3d-printers,flyrobo,SHF12 12mm Horizontal Linear Rail Shaft Bracket for 3D Printers,,120.0,True,,2026-04-05 21:53:39
+https://www.flyrobo.in/36-tooth-5mm-bore-gt2-timing-aluminum-pulley-for-6mm-belt,flyrobo,36 Tooth 5mm Bore GT2 Timing Aluminum Pulley for 6mm Belt,,117.0,True,,2026-04-05 21:53:41
+https://www.flyrobo.in/60-tooth-8mm-bore-gt2-timing-aluminum-pulley-for-6mm-belt,flyrobo,60 Tooth 8mm Bore GT2 Timing Aluminum Pulley for 6mm /8mm Belt,,192.0,True,,2026-04-05 21:53:43
+https://www.flyrobo.in/sbr12uu-12mm-open-block-linear-bearing-slider,flyrobo,SBR12UU 12mm Open Block Linear Bearing Slider,,257.0,True,,2026-04-05 21:53:44
+https://www.flyrobo.in/lm5uu-5mm-linear-motion-bearing-for-3d-printer,flyrobo,LM5UU 5mm Linear Motion Bearing for 3D Printer,,99.0,True,,2026-04-05 21:53:44
+https://www.flyrobo.in/lm12uu-12mm-linear-motion-bearing-for-3d-printer,flyrobo,LM12UU 12mm Linear Motion Bearing for 3D Printer,,86.0,True,,2026-04-05 21:53:45
+https://www.flyrobo.in/gx16-4-pin-circular-aviation-socket-plug-male-and-female-panel-connector,flyrobo,GX16 4-Pin Circular Aviation Socket Plug Male and Female Panel Connector,,65.0,True,,2026-04-05 21:53:46
+https://www.flyrobo.in/gx16-8-pin-circular-aviation-socket-plug-male-and-female-panel-connector,flyrobo,GX16 8-Pin Circular Aviation Socket Plug Male and Female Panel Connector,,88.0,True,,2026-04-05 21:53:47
+https://www.flyrobo.in/pg13.5-waterproof-ip68-nylon-plastic-cable-gland-connector,flyrobo,PG13.5 Waterproof IP68 Nylon Plastic Cable Gland Connector,,12.0,True,,2026-04-05 21:53:48
+https://www.flyrobo.in/pg21-waterproof-ip68-nylon-plastic-cable-gland-connector,flyrobo,PG21 Waterproof IP68 Nylon Plastic Cable Gland Connector,,16.0,True,,2026-04-05 21:53:48
+https://www.flyrobo.in/pg25-waterproof-ip68-nylon-plastic-cable-gland-connector,flyrobo,PG25 Waterproof IP68 Nylon Plastic Cable Gland Connector,,38.0,True,,2026-04-05 21:53:48
+https://www.flyrobo.in/gt2-158mm-long-closed-loop-6mm-rubber-timing-belt-for-3d-printer,flyrobo,GT2 158mm Long Closed Loop 6mm Rubber Timing Belt for 3D Printer,,60.0,True,,2026-04-05 21:53:51
+https://www.flyrobo.in/ptfe-4x6mm-transparent-teflon-tube-for-3mm-3d-printer-filament-1-meter,flyrobo,PTFE 4x6mm Transparent Teflon Tube for 3mm 3D Printer Filament  - 1 Meter,,112.0,False,,2026-04-05 21:53:51
+https://www.flyrobo.in/ptfe-3x4mm-white-teflon-tube-for-3mm-3d-printer-filament-1-meter,flyrobo,PTFE 3x4mm White Teflon Tube for 3mm 3D Printer Filament  - 1 Meter,,81.0,False,,2026-04-05 21:53:53
+https://www.flyrobo.in/gt2-5mm-bore-aluminum-pulley-without-20-teeth-for-10mm-belt,flyrobo,GT2 5mm Bore Aluminum Pulley Without 20 Teeth for 10mm Belt,,70.0,False,,2026-04-05 21:53:54
+https://www.flyrobo.in/gt2-3mm-bore-aluminum-pulley-without-16-teeth-for-6mm-belt,flyrobo,GT2 3mm Bore Aluminum Pulley Without 16 Teeth for 6mm Belt,,65.0,True,,2026-04-05 21:53:54
+https://www.flyrobo.in/gt2-5mm-bore-aluminum-pulley-without-20-teeth-for-6mm-belt,flyrobo,GT2 5mm Bore Aluminum Pulley Without 20 Teeth for 6mm Belt,,70.0,True,,2026-04-05 21:53:54
+https://www.flyrobo.in/syb-170-points-solderless-prototype-mini-transparent-breadboard,flyrobo,SYB-170 Points Solderless Prototype Mini Transparent Breadboard,,41.0,True,,2026-04-05 21:53:55
+https://www.flyrobo.in/optical-endstop-light-control-limit-switch-for-3d-printer,flyrobo,Optical Endstop Light Control Limit Switch for 3D Printer,,79.0,True,,2026-04-05 21:53:56
+https://www.flyrobo.in/gy-530-vl53l0x-time-flight-distance-measurement-sensor,flyrobo,GY-530 VL53L0X Time of Flight Distance Measurement Sensor,,112.0,True,,2026-04-05 21:53:56
+https://www.flyrobo.in/lm358-gain-signal-amplification-operational-amplifier-module,flyrobo,LM358 Gain Signal Amplification Operational Amplifier Module,,48.0,True,,2026-04-05 21:53:56
+https://www.flyrobo.in/cjmcu-6701-gsr-skin-sensor-analog-spi-module,flyrobo,CJMCU-6701 GSR Skin Sensor Analog SPI Module,,1013.0,False,,2026-04-05 21:53:57
+https://www.flyrobo.in/2-axis-brushless-drone-camera-gimbal-with-controller-silver,flyrobo,2-Axis Brushless Drone Camera Gimbal with Controller - Silver,,4150.0,False,,2026-04-05 21:53:57
+https://www.flyrobo.in/4-4-matrix-16-keys-telephone-panel-keyboard-keypad,flyrobo,4×4 Matrix 16 Keys Telephone Panel Keyboard Keypad,,172.0,True,,2026-04-05 21:53:57
+https://www.flyrobo.in/cellmeter-8-multi-functional-digital-power-servo-tester,flyrobo,Cellmeter 8 Multi-Functional Digital Power Servo Tester,,924.0,True,,2026-04-05 21:53:58
+https://www.flyrobo.in/3-x-1.5v-aa-battery-holder-without-cover,flyrobo,3 x 1.5V AA Battery Holder without Cover,,26.0,True,,2026-04-05 21:53:59
+https://www.flyrobo.in/xt60-male-dc-jack-male-plug-connector,flyrobo,XT60 Male to DC Jack Male Plug Connector,,52.0,True,,2026-04-05 21:54:00
+https://www.flyrobo.in/m2.5-x-5mm-brass-heat-set-threaded-round-insert-nut,flyrobo,M2.5 X 5mm Brass Heat Set Threaded Round Insert Nut,,2.5,True,,2026-04-05 21:54:00
+https://www.flyrobo.in/0.28inch-dc-100v-100a-led-digital-voltmeter-ammeter-with-shunt,flyrobo,0.28inch DC 100V 100A LED Digital Voltmeter Ammeter with Shunt,,647.0,True,,2026-04-05 21:54:01
+https://www.flyrobo.in/28-pin-wide-dip-ic-socket-base-adaptor,flyrobo,28 Pin Wide DIP IC Socket Base Adaptor,,8.0,True,,2026-04-05 21:54:03
+https://www.flyrobo.in/16-pin-dip-ic-socket-base-adaptor,flyrobo,16 Pin DIP IC Socket Base Adaptor,,4.54,True,,2026-04-05 21:54:04
+https://www.flyrobo.in/18-pin-dip-ic-socket-base-adaptor,flyrobo,18 Pin DIP IC Socket Base Adaptor,,5.05,True,,2026-04-05 21:54:04
+https://www.flyrobo.in/24-pin-wide-dip-ic-socket-base-adaptor,flyrobo,24 Pin Wide DIP IC Socket Base Adaptor,,10.0,True,,2026-04-05 21:54:05
+https://www.flyrobo.in/6-pin-machine-tooled-ic-socket-round-ic-base,flyrobo,6 Pin Machine tooled IC Socket (Round IC Base),,7.0,True,,2026-04-05 21:54:05
+https://www.flyrobo.in/28-pin-narrow-machine-tooled-ic-socket-round-ic-base,flyrobo,28 Pin Narrow Machine tooled IC Socket (Round IC Base),,28.0,True,,2026-04-05 21:54:05
+https://www.flyrobo.in/28-pin-wide-machine-tooled-ic-socket-round-ic-base,flyrobo,28 Pin Wide Machine tooled IC Socket (Round IC Base),,28.0,True,,2026-04-05 21:54:05
+https://www.flyrobo.in/us-100-ultrasonic-sensor-distance-measuring-module-with-temperature-compensation,flyrobo,US-100 Ultrasonic Sensor Distance Measuring Module with Temperature Compensation,,246.0,True,,2026-04-05 21:54:07
+https://www.flyrobo.in/mpx10dp-pressure-sensors-0kpa-10kpa,flyrobo,MPX10DP Pressure Sensors 0kPa to 10kPa,,949.0,False,,2026-04-05 21:54:07
+https://www.flyrobo.in/0.1mm-copper-soldering-solder-ppa-enameled-wire,flyrobo,0.1mm Copper Soldering Solder PPA Enameled Wire,,43.0,True,,2026-04-05 21:54:08
+https://www.flyrobo.in/usb2.0-audio-video-capture-card-adapter-vhs-dvd-video-capture-converter,flyrobo,USB2.0 Audio Video Capture Card Adapter VHS To DVD Video Capture Converter,,528.0,False,,2026-04-05 21:54:08
+https://www.flyrobo.in/mk10-v6-aluminum-heatsink-radiator-for-3d-printer-cr-10,flyrobo,MK10 V6 Aluminum Heatsink Radiator for 3D Printer CR-10,,147.0,True,,2026-04-05 21:54:10
+https://www.flyrobo.in/aluminum-heatsink-green-for-raspberry-pi,flyrobo,Aluminum Heatsink Green for Raspberry Pi,,9.06,False,,2026-04-05 21:54:11
+https://www.flyrobo.in/mk8-aluminum-block-silicone-protective-cover-for-3d-printer-yellow,flyrobo,MK8 Aluminum Block Silicone Protective Cover for 3D Printer Yellow,,19.0,True,,2026-04-05 21:54:11
+https://www.flyrobo.in/m6x40mm-stainless-steel-nozzle-throat-with-teflon-tube-for-3d-printer-1.75mm-extruder,flyrobo,M6x40mm Stainless Steel Nozzle Throat with Teflon Tube for 3D Printer 1.75mm Extruder,,45.0,True,,2026-04-05 21:54:12
+https://www.flyrobo.in/20a-bidirectional-digital-esc,flyrobo,20A Bidirectional Digital ESC,,728.0,False,,2026-04-05 21:54:13
+https://www.flyrobo.in/20a-2-4s-mini-blheli_s-opto-esc-for-fpv-race-rc-helicopter,flyrobo,20A 2-4S Mini BLHeli_S OPTO ESC for FPV Race RC Helicopter,,775.0,True,,2026-04-05 21:54:13
+https://www.flyrobo.in/mounting-bracket-for-n20-micro-gear-motors-white,flyrobo,Mounting Bracket for N20 Micro Gear Motors - White,,11.0,True,,2026-04-05 21:54:15
+https://www.flyrobo.in/ts832-fpv-5.8g-600mw-48ch-wireless-av-transmitter,flyrobo,TS832 FPV 5.8G 600MW 48CH Wireless AV Transmitter,,1456.0,False,,2026-04-05 21:54:15
+https://www.flyrobo.in/ts835-fpv-5.8g-600mw-48ch-wireless-av-transmitter,flyrobo,TS835 FPV 5.8G 600MW 48CH Wireless AV Transmitter,,1618.0,False,,2026-04-05 21:54:16
+https://www.flyrobo.in/sn04-n-npn-normally-open-5mm-distance-detector-proximity-sensor-switch-module,flyrobo,SN04-N NPN Normally Open 5mm Distance Detector Proximity Sensor Switch Module,,139.0,True,,2026-04-05 21:54:18
+https://www.flyrobo.in/n20-gear-motor-bracket-black,flyrobo,Mounting Bracket for N20 Micro Gear Motors - Black,,15.0,True,,2026-04-05 21:54:18
+https://www.flyrobo.in/irf3205-mosfet-55v-110a-n-channel-hexfet-power-mosfet-220-package,flyrobo,IRF3205 MOSFET 55V 110A N-Channel HEXFET Power MOSFET TO-220 Package,,42.0,True,,2026-04-05 21:54:19
+https://www.flyrobo.in/bd140-pnp-bipolar-power-transistor-80v-1.5a-126-package,flyrobo,BD140 PNP Bipolar Power Transistor 80V 1.5A TO-126 Package,,6.0,True,,2026-04-05 21:54:19
+https://www.flyrobo.in/db107-1a-dip-bridge-rectifier-ic,flyrobo,DB107 1A DIP Bridge Rectifier IC,,6.0,True,,2026-04-05 21:54:20
+https://www.flyrobo.in/t8-lead-screw-nut-housing-bracket-for-3d-printer-parts-t8-trapezoidal-lead-screw-conversion-nut-seat-aluminum-block,flyrobo,T8 Lead Screw Nut Housing Bracket for 3D Printer Parts T8 Trapezoidal Lead Screw Conversion Nut Seat Aluminum Block,,247.0,True,,2026-04-05 21:54:21
+https://www.flyrobo.in/6mm-gold-plated-bullet-banana-connector,flyrobo,6mm Gold Plated Bullet Banana Connector,,73.0,True,,2026-04-05 21:54:22
+https://www.flyrobo.in/600tvl-170-degree-mini-fpv-av-camera-with-audio-for-mini-quadcopter,flyrobo,600TVL 170 Degree Mini FPV AV Camera with Audio for Mini Quadcopter,,954.0,True,,2026-04-05 21:54:25
+https://www.flyrobo.in/1500tvl-1-3-cmos-mini-fpv-camera-2.1mm-lens-pal-with-osd,flyrobo,1500TVL 1/3″ CMOS Mini FPV Camera 2.1mm Lens PAL with OSD,,1392.0,True,,2026-04-05 21:54:26
+https://www.flyrobo.in/mini-fpv-goggles-3-inch-480x320-display-auto-search-40ch-5.8g-video-headset-ips-lcd-screen-for-fpv-quadcopter-drones,flyrobo,Readytosky FPV Goggles 3 Inch 480x320 Display Auto-Search 40CH 5.8G Video Headset IPS LCD Screen for FPV Quadcopter Drones,,5709.0,False,,2026-04-05 21:54:26
+https://www.flyrobo.in/usb-plug-male-head-micro-interface-5p-welding-type-4-1-diy-kit,flyrobo,USB Plug Male Head Micro Interface 5P Welding Type 4 in 1 DIY Kit,,17.0,True,,2026-04-05 21:54:27
+https://www.flyrobo.in/drive-gear-copper-extruder-pulley-bore-5mm-feeder-wheel-for-1.75mm-3mm-filament,flyrobo,Drive Gear Copper Extruder Pulley Bore 5mm Feeder Wheel for 1.75mm/3mm Filament,,59.0,False,,2026-04-05 21:54:27
+https://www.flyrobo.in/1.75mm-bondtech-extruder-two-way-feeding-wheel-for-3d-printer,flyrobo,1.75mm Bondtech Extruder Two Way Feeding Wheel for 3D Printer,,157.0,True,,2026-04-05 21:54:28
+https://www.flyrobo.in/electronic-hourglass-shape-flashing-led-diy-kit,flyrobo,Electronic Hourglass Shape Flashing LED DIY Kit,,183.0,True,,2026-04-05 21:54:29
+https://www.flyrobo.in/c1a-deceleration-small-motor,flyrobo,C1A Deceleration Small Motor,,81.0,True,,2026-04-05 21:54:30
+https://www.flyrobo.in/2s-7.4v-8.4v-20a-18650-lithium-battery-protection-board-with-balanced-version,flyrobo,2S 7.4V 8.4V 20A 18650 Lithium Battery Protection Board with Balanced Version,,70.0,True,,2026-04-05 21:54:30
+https://www.flyrobo.in/12v-diy-portable-spot-welding-machine-battery-storage-pcb-circuit-board,flyrobo,12V DIY Portable Spot Welding Machine Battery Storage PCB Circuit Board,,1267.0,False,,2026-04-05 21:54:32
+https://www.flyrobo.in/t-plug-female-connector-xt60-plug-2-6s-lipo-battery-parallel-charging-board,flyrobo,T Plug Female Connector XT60 Plug 2-6S Lipo Battery Parallel Charging Board,,589.0,True,,2026-04-05 21:54:32
+https://www.flyrobo.in/apm-pixhawk-power-module-v6.0-output-bec-3a-xt60-plug-28v-90a,flyrobo,APM Pixhawk Power Module V6.0 Output BEC 3A XT60 Plug 28V 90A,,620.0,True,,2026-04-05 21:54:33
+https://www.flyrobo.in/readytosky-ublox-neo-m8n-gps-with-compass-for-pixhawk-with-extra-connector-for-apm,flyrobo,Readytosky Ublox NEO-M8N GPS with Compass for Pixhawk with Extra Connector for APM,,2245.0,False,,2026-04-05 21:54:33
+https://www.flyrobo.in/sp-racing-f3-flight-controller-integrate-osd-acro-version,flyrobo,SP Racing F3 Flight Controller Integrate OSD ACRO Version,,2753.0,False,,2026-04-05 21:54:34

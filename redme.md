@@ -1,0 +1,1 @@
+The sitemap for evelta is broken rest it is there easy to acess, we are mostly using open graph to get the data
